@@ -1,0 +1,1944 @@
+INFO 2019-05-26 11:39:07:
+Parsing configuration file [struts-default.xml]
+INFO 2019-05-26 11:39:07:
+Parsing configuration file [struts-plugin.xml]
+INFO 2019-05-26 11:39:07:
+Parsing configuration file [struts.xml]
+INFO 2019-05-26 11:39:07:
+Choosing bean (struts) for (com.opensymphony.xwork2.ObjectFactory)
+INFO 2019-05-26 11:39:07:
+Choosing bean (struts) for (com.opensymphony.xwork2.factory.ActionFactory)
+INFO 2019-05-26 11:39:07:
+Choosing bean (struts) for (com.opensymphony.xwork2.factory.ResultFactory)
+INFO 2019-05-26 11:39:07:
+Choosing bean (struts) for (com.opensymphony.xwork2.factory.ConverterFactory)
+INFO 2019-05-26 11:39:07:
+Choosing bean (struts) for (com.opensymphony.xwork2.factory.InterceptorFactory)
+INFO 2019-05-26 11:39:07:
+Choosing bean (struts) for (com.opensymphony.xwork2.factory.ValidatorFactory)
+INFO 2019-05-26 11:39:07:
+Choosing bean (struts) for (com.opensymphony.xwork2.factory.UnknownHandlerFactory)
+INFO 2019-05-26 11:39:07:
+Choosing bean (struts) for (com.opensymphony.xwork2.FileManagerFactory)
+INFO 2019-05-26 11:39:07:
+Choosing bean (struts) for (com.opensymphony.xwork2.conversion.impl.XWorkConverter)
+INFO 2019-05-26 11:39:07:
+Choosing bean (struts) for (com.opensymphony.xwork2.conversion.impl.CollectionConverter)
+INFO 2019-05-26 11:39:07:
+Choosing bean (struts) for (com.opensymphony.xwork2.conversion.impl.ArrayConverter)
+INFO 2019-05-26 11:39:07:
+Choosing bean (struts) for (com.opensymphony.xwork2.conversion.impl.DateConverter)
+INFO 2019-05-26 11:39:07:
+Choosing bean (struts) for (com.opensymphony.xwork2.conversion.impl.NumberConverter)
+INFO 2019-05-26 11:39:07:
+Choosing bean (struts) for (com.opensymphony.xwork2.conversion.impl.StringConverter)
+INFO 2019-05-26 11:39:07:
+Choosing bean (struts) for (com.opensymphony.xwork2.conversion.ConversionPropertiesProcessor)
+INFO 2019-05-26 11:39:07:
+Choosing bean (struts) for (com.opensymphony.xwork2.conversion.ConversionFileProcessor)
+INFO 2019-05-26 11:39:07:
+Choosing bean (struts) for (com.opensymphony.xwork2.conversion.ConversionAnnotationProcessor)
+INFO 2019-05-26 11:39:07:
+Choosing bean (struts) for (com.opensymphony.xwork2.conversion.TypeConverterCreator)
+INFO 2019-05-26 11:39:07:
+Choosing bean (struts) for (com.opensymphony.xwork2.conversion.TypeConverterHolder)
+INFO 2019-05-26 11:39:07:
+Choosing bean (struts) for (com.opensymphony.xwork2.TextProvider)
+INFO 2019-05-26 11:39:07:
+Choosing bean (struts) for (com.opensymphony.xwork2.LocaleProvider)
+INFO 2019-05-26 11:39:07:
+Choosing bean (struts) for (com.opensymphony.xwork2.ActionProxyFactory)
+INFO 2019-05-26 11:39:07:
+Choosing bean (struts) for (com.opensymphony.xwork2.conversion.ObjectTypeDeterminer)
+INFO 2019-05-26 11:39:07:
+Choosing bean (struts) for (org.apache.struts2.dispatcher.mapper.ActionMapper)
+INFO 2019-05-26 11:39:07:
+Choosing bean (jakarta) for (org.apache.struts2.dispatcher.multipart.MultiPartRequest)
+INFO 2019-05-26 11:39:07:
+Choosing bean (struts) for (org.apache.struts2.views.freemarker.FreemarkerManager)
+INFO 2019-05-26 11:39:07:
+Choosing bean (struts) for (org.apache.struts2.components.UrlRenderer)
+INFO 2019-05-26 11:39:07:
+Choosing bean (struts) for (com.opensymphony.xwork2.validator.ActionValidatorManager)
+INFO 2019-05-26 11:39:07:
+Choosing bean (struts) for (com.opensymphony.xwork2.util.ValueStackFactory)
+INFO 2019-05-26 11:39:07:
+Choosing bean (struts) for (com.opensymphony.xwork2.util.reflection.ReflectionProvider)
+INFO 2019-05-26 11:39:07:
+Choosing bean (struts) for (com.opensymphony.xwork2.util.reflection.ReflectionContextFactory)
+INFO 2019-05-26 11:39:07:
+Choosing bean (struts) for (com.opensymphony.xwork2.util.PatternMatcher)
+INFO 2019-05-26 11:39:07:
+Choosing bean (struts) for (org.apache.struts2.util.ContentTypeMatcher)
+INFO 2019-05-26 11:39:07:
+Choosing bean (struts) for (org.apache.struts2.dispatcher.StaticContentLoader)
+INFO 2019-05-26 11:39:07:
+Choosing bean (struts) for (com.opensymphony.xwork2.UnknownHandlerManager)
+INFO 2019-05-26 11:39:07:
+Choosing bean (struts) for (org.apache.struts2.views.util.UrlHelper)
+INFO 2019-05-26 11:39:07:
+Choosing bean (struts) for (com.opensymphony.xwork2.util.TextParser)
+INFO 2019-05-26 11:39:07:
+Choosing bean (struts) for (org.apache.struts2.dispatcher.DispatcherErrorHandler)
+INFO 2019-05-26 11:39:07:
+Choosing bean (struts) for (com.opensymphony.xwork2.security.ExcludedPatternsChecker)
+INFO 2019-05-26 11:39:07:
+Choosing bean (struts) for (com.opensymphony.xwork2.security.AcceptedPatternsChecker)
+INFO 2019-05-26 11:39:08:
+系统初始化中...v4.20170616B
+INFO 2019-05-26 11:39:08:
+项目ID:WF_CAR---项目名称:car---启动模式:local
+INFO 2019-05-26 11:39:08:
+配置库  wf_tianyi链接池创建成功!
+INFO 2019-05-26 11:39:08:
+业务库CAR链接池创建成功!
+INFO 2019-05-26 11:39:08:
+ftpz FTP服务器 127.0.0.1:21 配置完毕.
+INFO 2019-05-26 11:39:08:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_CUSTOM_DEF where FUNCNO=0
+INFO 2019-05-26 11:39:08:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_CUSTOM_DETAIL where FUNCNO=0
+INFO 2019-05-26 11:39:08:
+本系统未定义初始化环境变量.
+INFO 2019-05-26 11:39:08:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select wm_concat(distinct trim(func_type)) from WF_CAR.sys_window_def
+INFO 2019-05-26 11:39:08:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select wm_concat(distinct trim(inputtype)) from WF_CAR.sys_form_detail
+INFO 2019-05-26 11:39:08:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select count(*) from WF_CAR.sys_query_detail where chart_col is not null and chart_col<>'none'
+INFO 2019-05-26 11:39:08:
+WFINFO>>窗口类型(db)：[{"type":"F","detail":"date,select,text,uploadfile"},{"type":"Q","detail":""}]
+INFO 2019-05-26 11:39:08:
+系统启动成功！ 
+INFO 2019-05-26 11:39:49:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>UC变量#0-USERINFO.USERID#值为：ws
+INFO 2019-05-26 11:39:49:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>UC变量#0-USERINFO.USERNAME#值为：ws
+INFO 2019-05-26 11:39:49:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>UC变量#0-USERINFO.SEX#值为：男
+INFO 2019-05-26 11:39:49:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>UC变量#0-USERINFO.ADDRESS#值为：湖北黄冈
+INFO 2019-05-26 11:39:49:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>UC变量#0-USERINFO.MOBILEPHONE#值为：139959766290
+INFO 2019-05-26 11:39:49:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>UC变量#0-USERINFO.AGE#值为：23
+INFO 2019-05-26 11:39:49:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>UC变量#0-CURRENTYEAR#值为：2019
+INFO 2019-05-26 11:39:49:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>UC变量#0-CURRENTMONTH#值为：05
+INFO 2019-05-26 11:39:49:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>UC变量#0-CURRENTDAY#值为：26
+INFO 2019-05-26 11:39:49:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>UC变量#0-CURRENTYM#值为：201905
+INFO 2019-05-26 11:39:49:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>UC变量#0-CURRENTYMD#值为：20190526
+INFO 2019-05-26 11:39:49:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>UC变量#0-TODAY#值为：2019-05-26
+INFO 2019-05-26 11:39:49:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>UC变量#0-BYEAR#值为：2019
+INFO 2019-05-26 11:39:49:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select count(*) from user_tables where table_name = 'WF_USERINFOEX'
+INFO 2019-05-26 11:39:49:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from WF_CAR.SYS_USERINFO where USERID='ws'
+INFO 2019-05-26 11:39:49:
+ws 登录成功---Sun May 26 11:39:49 CST 2019
+INFO 2019-05-26 11:39:49:
+WFDEBUG>>*>>*>>ws>>C581A2E8E77773E421B26A88EB508FDC>>ws 登录成功---Sun May 26 11:39:49 CST 2019
+INFO 2019-05-26 11:39:51:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select sur.roleid, sur.userid, sr.rolename  from   WF_CAR.sys_user_role sur,   WF_CAR.sys_role sr where trim(sr.roleid) = trim(sur.roleid)   and trim(sur.userid) = 'ws' order by ROLEID
+INFO 2019-05-26 11:39:51:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):SELECT * FROM (SELECT DISTINCT 'WF_CAR' SYS_PROJECTID, D.NODEID, D.LEAF, D.PARENT_NODEID, D.NODENAME,D.WINNO SYS_WINNO,D.LEVELID,decode(D.NODEICO,null,' ',D.NODEICO) NODEICO,D.BINDING_DATA FROM  WF_CAR.SYS_MENU_NODE D, (SELECT NODEID FROM  WF_CAR.SYS_ROLE_MENU A WHERE  A.ROLEID IN ('')) C, WF_CAR.SYS_MENU_PARENTS E WHERE E.NODEID=C.NODEID AND D.NODEID=E.PARENT_NODEID) ORDER BY LEVELID
+INFO 2019-05-26 11:39:51:
+WFINFO>>表WF_CAR.SYS_USER_SYSTEM_FUNC没有找到。
+INFO 2019-05-26 11:39:51:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select sur.roleid, sur.userid, sr.rolename  from   WF_CAR.sys_user_role sur,   WF_CAR.sys_role sr where trim(sr.roleid) = trim(sur.roleid)   and trim(sur.userid) = 'ws' order by ROLEID
+INFO 2019-05-26 11:39:51:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select sur.roleid, sur.userid, sr.rolename  from   WF_CAR.sys_user_role sur,   WF_CAR.sys_role sr where trim(sr.roleid) = trim(sur.roleid)   and trim(sur.userid) = 'ws' order by ROLEID
+INFO 2019-05-26 11:39:51:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.sys_role_table where roleid = '0'
+INFO 2019-05-26 11:39:51:
+WFINFO>>角色0有0个角色行条件被加载
+INFO 2019-05-26 11:39:51:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):SELECT * FROM (SELECT DISTINCT 'WF_CAR' SYS_PROJECTID, D.NODEID, D.LEAF, D.PARENT_NODEID, D.NODENAME,D.WINNO SYS_WINNO,D.LEVELID,decode(D.NODEICO,null,' ',D.NODEICO) NODEICO,D.BINDING_DATA FROM  WF_CAR.SYS_MENU_NODE D, (SELECT NODEID FROM  WF_CAR.SYS_ROLE_MENU A WHERE  A.ROLEID IN ('0')) C, WF_CAR.SYS_MENU_PARENTS E WHERE E.NODEID=C.NODEID AND D.NODEID=E.PARENT_NODEID) ORDER BY LEVELID
+INFO 2019-05-26 11:39:51:
+WFINFO>>表WF_CAR.SYS_USER_SYSTEM_FUNC没有找到。
+INFO 2019-05-26 11:39:51:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select 'WF_CAR:' || m.winno || ':' || rtrim(m.nodename) from  WF_CAR.sys_role_menu rm, WF_CAR.sys_menu_node m where  rm.nodeid = m.nodeid and rm.roleid in ('0') and rm.isdefault = 'Y'
+INFO 2019-05-26 11:39:51:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select attach_wins from  WF_CAR.SYS_WINDOW_DEF where winno = 2
+INFO 2019-05-26 11:39:51:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_WINDOW_DEF where winno  = 2
+INFO 2019-05-26 11:39:51:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[10ms]非JSON找到定义W:2
+INFO 2019-05-26 11:39:51:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DEF where FUNCNO=2
+INFO 2019-05-26 11:39:51:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DETAIL where FUNCNO=2 and FIELDNAME <> '***' order by ord
+INFO 2019-05-26 11:39:51:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select dispexp from  WF_CAR.User_Display_Set where funcno=2 and userid='ws'
+INFO 2019-05-26 11:39:51:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[19ms]非JSON找到定义Q:2
+INFO 2019-05-26 11:39:51:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ))
+INFO 2019-05-26 11:39:51:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:39:51:
+WFDEBUG>>*>>WF_CAR>>ws>>C581A2E8E77773E421B26A88EB508FDC>>[9ms]2:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:39:52:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select attach_wins from  WF_CAR.SYS_WINDOW_DEF where winno = 18
+INFO 2019-05-26 11:39:52:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_WINDOW_DEF where winno  = 18
+INFO 2019-05-26 11:39:52:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[9ms]非JSON找到定义W:18
+INFO 2019-05-26 11:39:52:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DEF where FUNCNO=22
+INFO 2019-05-26 11:39:52:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DETAIL where FUNCNO=22 and FIELDNAME <> '***' order by ord
+INFO 2019-05-26 11:39:52:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select dispexp from  WF_CAR.User_Display_Set where funcno=22 and userid='ws'
+INFO 2019-05-26 11:39:52:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[15ms]非JSON找到定义Q:22
+INFO 2019-05-26 11:39:52:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select ru.ruleid,ru.carid,ru.ruletime,ru.rulevio,ru.rulemoney,ru.ruledebt,ru.rulemarks,ru.lasttime from rule ru where (1=1   ))
+INFO 2019-05-26 11:39:52:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by ru.ruletime DESC ) rn,ru.ruleid,ru.carid,ru.ruletime,ru.rulevio,ru.rulemoney,ru.ruledebt,ru.rulemarks,ru.lasttime from rule ru where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:39:52:
+WFDEBUG>>*>>WF_CAR>>ws>>C581A2E8E77773E421B26A88EB508FDC>>[9ms]22:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by ru.ruletime DESC ) rn,ru.ruleid,ru.carid,ru.ruletime,ru.rulevio,ru.rulemoney,ru.ruledebt,ru.rulemarks,ru.lasttime from rule ru where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:39:53:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ))
+INFO 2019-05-26 11:39:53:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:39:53:
+WFDEBUG>>*>>WF_CAR>>ws>>C581A2E8E77773E421B26A88EB508FDC>>[6ms]2:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:39:54:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select attach_wins from  WF_CAR.SYS_WINDOW_DEF where winno = 12
+INFO 2019-05-26 11:39:54:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_WINDOW_DEF where winno  = 12
+INFO 2019-05-26 11:39:54:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[11ms]非JSON找到定义W:12
+INFO 2019-05-26 11:39:54:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DEF where FUNCNO=14
+INFO 2019-05-26 11:39:54:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DETAIL where FUNCNO=14 and FIELDNAME <> '***' order by ord
+INFO 2019-05-26 11:39:54:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select dispexp from  WF_CAR.User_Display_Set where funcno=14 and userid='ws'
+INFO 2019-05-26 11:39:54:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[27ms]非JSON找到定义Q:14
+INFO 2019-05-26 11:39:54:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ))
+INFO 2019-05-26 11:39:54:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:39:54:
+WFDEBUG>>*>>WF_CAR>>ws>>C581A2E8E77773E421B26A88EB508FDC>>[7ms]14:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:39:55:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select attach_wins from  WF_CAR.SYS_WINDOW_DEF where winno = 9
+INFO 2019-05-26 11:39:55:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_WINDOW_DEF where winno  = 9
+INFO 2019-05-26 11:39:55:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[14ms]非JSON找到定义W:9
+INFO 2019-05-26 11:39:55:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_FORM_DEF where FUNCNO=12
+INFO 2019-05-26 11:39:55:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_FORM_DETAIL where FUNCNO=12 order by ord
+INFO 2019-05-26 11:39:55:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[25ms]非JSON找到定义F:12
+INFO 2019-05-26 11:40:08:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select sur.roleid, sur.userid, sr.rolename  from   WF_CAR.sys_user_role sur,   WF_CAR.sys_role sr where trim(sr.roleid) = trim(sur.roleid)   and trim(sur.userid) = 'ws' order by ROLEID
+INFO 2019-05-26 11:40:08:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):SELECT * FROM (SELECT DISTINCT 'WF_CAR' SYS_PROJECTID, D.NODEID, D.LEAF, D.PARENT_NODEID, D.NODENAME,D.WINNO SYS_WINNO,D.LEVELID,decode(D.NODEICO,null,' ',D.NODEICO) NODEICO,D.BINDING_DATA FROM  WF_CAR.SYS_MENU_NODE D, (SELECT NODEID FROM  WF_CAR.SYS_ROLE_MENU A WHERE  A.ROLEID IN ('')) C, WF_CAR.SYS_MENU_PARENTS E WHERE E.NODEID=C.NODEID AND D.NODEID=E.PARENT_NODEID) ORDER BY LEVELID
+INFO 2019-05-26 11:40:08:
+WFINFO>>表WF_CAR.SYS_USER_SYSTEM_FUNC没有找到。
+INFO 2019-05-26 11:40:08:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select sur.roleid, sur.userid, sr.rolename  from   WF_CAR.sys_user_role sur,   WF_CAR.sys_role sr where trim(sr.roleid) = trim(sur.roleid)   and trim(sur.userid) = 'ws' order by ROLEID
+INFO 2019-05-26 11:40:08:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select sur.roleid, sur.userid, sr.rolename  from   WF_CAR.sys_user_role sur,   WF_CAR.sys_role sr where trim(sr.roleid) = trim(sur.roleid)   and trim(sur.userid) = 'ws' order by ROLEID
+INFO 2019-05-26 11:40:08:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.sys_role_table where roleid = '0'
+INFO 2019-05-26 11:40:08:
+WFINFO>>角色0有0个角色行条件被加载
+INFO 2019-05-26 11:40:08:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):SELECT * FROM (SELECT DISTINCT 'WF_CAR' SYS_PROJECTID, D.NODEID, D.LEAF, D.PARENT_NODEID, D.NODENAME,D.WINNO SYS_WINNO,D.LEVELID,decode(D.NODEICO,null,' ',D.NODEICO) NODEICO,D.BINDING_DATA FROM  WF_CAR.SYS_MENU_NODE D, (SELECT NODEID FROM  WF_CAR.SYS_ROLE_MENU A WHERE  A.ROLEID IN ('0')) C, WF_CAR.SYS_MENU_PARENTS E WHERE E.NODEID=C.NODEID AND D.NODEID=E.PARENT_NODEID) ORDER BY LEVELID
+INFO 2019-05-26 11:40:08:
+WFINFO>>表WF_CAR.SYS_USER_SYSTEM_FUNC没有找到。
+INFO 2019-05-26 11:40:08:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select 'WF_CAR:' || m.winno || ':' || rtrim(m.nodename) from  WF_CAR.sys_role_menu rm, WF_CAR.sys_menu_node m where  rm.nodeid = m.nodeid and rm.roleid in ('0') and rm.isdefault = 'Y'
+INFO 2019-05-26 11:40:08:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select attach_wins from  WF_CAR.SYS_WINDOW_DEF where winno = 2
+INFO 2019-05-26 11:40:08:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_WINDOW_DEF where winno  = 2
+INFO 2019-05-26 11:40:08:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[5ms]非JSON找到定义W:2
+INFO 2019-05-26 11:40:08:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DEF where FUNCNO=2
+INFO 2019-05-26 11:40:08:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DETAIL where FUNCNO=2 and FIELDNAME <> '***' order by ord
+INFO 2019-05-26 11:40:08:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select dispexp from  WF_CAR.User_Display_Set where funcno=2 and userid='ws'
+INFO 2019-05-26 11:40:08:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[11ms]非JSON找到定义Q:2
+INFO 2019-05-26 11:40:08:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ))
+INFO 2019-05-26 11:40:08:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:40:08:
+WFDEBUG>>*>>WF_CAR>>ws>>C581A2E8E77773E421B26A88EB508FDC>>[6ms]2:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:40:09:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select attach_wins from  WF_CAR.SYS_WINDOW_DEF where winno = 12
+INFO 2019-05-26 11:40:09:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_WINDOW_DEF where winno  = 12
+INFO 2019-05-26 11:40:09:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[8ms]非JSON找到定义W:12
+INFO 2019-05-26 11:40:09:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DEF where FUNCNO=14
+INFO 2019-05-26 11:40:09:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DETAIL where FUNCNO=14 and FIELDNAME <> '***' order by ord
+INFO 2019-05-26 11:40:09:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select dispexp from  WF_CAR.User_Display_Set where funcno=14 and userid='ws'
+INFO 2019-05-26 11:40:09:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[14ms]非JSON找到定义Q:14
+INFO 2019-05-26 11:40:09:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ))
+INFO 2019-05-26 11:40:09:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:40:09:
+WFDEBUG>>*>>WF_CAR>>ws>>C581A2E8E77773E421B26A88EB508FDC>>[3ms]14:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:40:11:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select attach_wins from  WF_CAR.SYS_WINDOW_DEF where winno = 9
+INFO 2019-05-26 11:40:11:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_WINDOW_DEF where winno  = 9
+INFO 2019-05-26 11:40:11:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[6ms]非JSON找到定义W:9
+INFO 2019-05-26 11:40:11:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_FORM_DEF where FUNCNO=12
+INFO 2019-05-26 11:40:11:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_FORM_DETAIL where FUNCNO=12 order by ord
+INFO 2019-05-26 11:40:11:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[9ms]非JSON找到定义F:12
+INFO 2019-05-26 11:40:38:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select sur.roleid, sur.userid, sr.rolename  from   WF_CAR.sys_user_role sur,   WF_CAR.sys_role sr where trim(sr.roleid) = trim(sur.roleid)   and trim(sur.userid) = 'ws' order by ROLEID
+INFO 2019-05-26 11:40:38:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):SELECT * FROM (SELECT DISTINCT 'WF_CAR' SYS_PROJECTID, D.NODEID, D.LEAF, D.PARENT_NODEID, D.NODENAME,D.WINNO SYS_WINNO,D.LEVELID,decode(D.NODEICO,null,' ',D.NODEICO) NODEICO,D.BINDING_DATA FROM  WF_CAR.SYS_MENU_NODE D, (SELECT NODEID FROM  WF_CAR.SYS_ROLE_MENU A WHERE  A.ROLEID IN ('')) C, WF_CAR.SYS_MENU_PARENTS E WHERE E.NODEID=C.NODEID AND D.NODEID=E.PARENT_NODEID) ORDER BY LEVELID
+INFO 2019-05-26 11:40:38:
+WFINFO>>表WF_CAR.SYS_USER_SYSTEM_FUNC没有找到。
+INFO 2019-05-26 11:40:38:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select sur.roleid, sur.userid, sr.rolename  from   WF_CAR.sys_user_role sur,   WF_CAR.sys_role sr where trim(sr.roleid) = trim(sur.roleid)   and trim(sur.userid) = 'ws' order by ROLEID
+INFO 2019-05-26 11:40:38:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select sur.roleid, sur.userid, sr.rolename  from   WF_CAR.sys_user_role sur,   WF_CAR.sys_role sr where trim(sr.roleid) = trim(sur.roleid)   and trim(sur.userid) = 'ws' order by ROLEID
+INFO 2019-05-26 11:40:38:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.sys_role_table where roleid = '0'
+INFO 2019-05-26 11:40:38:
+WFINFO>>角色0有0个角色行条件被加载
+INFO 2019-05-26 11:40:38:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):SELECT * FROM (SELECT DISTINCT 'WF_CAR' SYS_PROJECTID, D.NODEID, D.LEAF, D.PARENT_NODEID, D.NODENAME,D.WINNO SYS_WINNO,D.LEVELID,decode(D.NODEICO,null,' ',D.NODEICO) NODEICO,D.BINDING_DATA FROM  WF_CAR.SYS_MENU_NODE D, (SELECT NODEID FROM  WF_CAR.SYS_ROLE_MENU A WHERE  A.ROLEID IN ('0')) C, WF_CAR.SYS_MENU_PARENTS E WHERE E.NODEID=C.NODEID AND D.NODEID=E.PARENT_NODEID) ORDER BY LEVELID
+INFO 2019-05-26 11:40:38:
+WFINFO>>表WF_CAR.SYS_USER_SYSTEM_FUNC没有找到。
+INFO 2019-05-26 11:40:38:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select 'WF_CAR:' || m.winno || ':' || rtrim(m.nodename) from  WF_CAR.sys_role_menu rm, WF_CAR.sys_menu_node m where  rm.nodeid = m.nodeid and rm.roleid in ('0') and rm.isdefault = 'Y'
+INFO 2019-05-26 11:40:38:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select attach_wins from  WF_CAR.SYS_WINDOW_DEF where winno = 2
+INFO 2019-05-26 11:40:38:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_WINDOW_DEF where winno  = 2
+INFO 2019-05-26 11:40:38:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[6ms]非JSON找到定义W:2
+INFO 2019-05-26 11:40:38:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DEF where FUNCNO=2
+INFO 2019-05-26 11:40:38:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DETAIL where FUNCNO=2 and FIELDNAME <> '***' order by ord
+INFO 2019-05-26 11:40:38:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select dispexp from  WF_CAR.User_Display_Set where funcno=2 and userid='ws'
+INFO 2019-05-26 11:40:38:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[14ms]非JSON找到定义Q:2
+INFO 2019-05-26 11:40:38:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ))
+INFO 2019-05-26 11:40:38:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:40:38:
+WFDEBUG>>*>>WF_CAR>>ws>>C581A2E8E77773E421B26A88EB508FDC>>[4ms]2:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:40:39:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select attach_wins from  WF_CAR.SYS_WINDOW_DEF where winno = 12
+INFO 2019-05-26 11:40:39:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_WINDOW_DEF where winno  = 12
+INFO 2019-05-26 11:40:39:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[7ms]非JSON找到定义W:12
+INFO 2019-05-26 11:40:39:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DEF where FUNCNO=14
+INFO 2019-05-26 11:40:39:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DETAIL where FUNCNO=14 and FIELDNAME <> '***' order by ord
+INFO 2019-05-26 11:40:39:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select dispexp from  WF_CAR.User_Display_Set where funcno=14 and userid='ws'
+INFO 2019-05-26 11:40:39:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[12ms]非JSON找到定义Q:14
+INFO 2019-05-26 11:40:39:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ))
+INFO 2019-05-26 11:40:39:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:40:39:
+WFDEBUG>>*>>WF_CAR>>ws>>C581A2E8E77773E421B26A88EB508FDC>>[3ms]14:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:40:40:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select attach_wins from  WF_CAR.SYS_WINDOW_DEF where winno = 9
+INFO 2019-05-26 11:40:40:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_WINDOW_DEF where winno  = 9
+INFO 2019-05-26 11:40:40:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[5ms]非JSON找到定义W:9
+INFO 2019-05-26 11:40:40:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_FORM_DEF where FUNCNO=12
+INFO 2019-05-26 11:40:40:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_FORM_DETAIL where FUNCNO=12 order by ord
+INFO 2019-05-26 11:40:40:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[10ms]非JSON找到定义F:12
+INFO 2019-05-26 11:40:46:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select attach_wins from  WF_CAR.SYS_WINDOW_DEF where winno = 11
+INFO 2019-05-26 11:40:46:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_WINDOW_DEF where winno  = 11
+INFO 2019-05-26 11:40:46:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[9ms]非JSON找到定义W:11
+INFO 2019-05-26 11:40:46:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_FORM_DEF where FUNCNO=13
+INFO 2019-05-26 11:40:46:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_FORM_DETAIL where FUNCNO=13 order by ord
+INFO 2019-05-26 11:40:46:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[12ms]非JSON找到定义F:13
+INFO 2019-05-26 11:40:46:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select sql from WF_CAR.sys_bind_sql where sqlid='8ad087d0b2843324352bb5f7a88b7787'
+INFO 2019-05-26 11:40:46:
+WFDEBUG>>*>>WF_CAR>>ws>>C581A2E8E77773E421B26A88EB508FDC>>[1ms]后台绑定sql数据完成。SQL:select 'ws' userid,                'ws' username,                'ws' password,                '男' sex,                '湖北黄冈' address,                '139959766290' mobilephone,                '23' age,                '4223434342424' idcard                from dual
+INFO 2019-05-26 11:41:11:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select sur.roleid, sur.userid, sr.rolename  from   WF_CAR.sys_user_role sur,   WF_CAR.sys_role sr where trim(sr.roleid) = trim(sur.roleid)   and trim(sur.userid) = 'ws' order by ROLEID
+INFO 2019-05-26 11:41:11:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):SELECT * FROM (SELECT DISTINCT 'WF_CAR' SYS_PROJECTID, D.NODEID, D.LEAF, D.PARENT_NODEID, D.NODENAME,D.WINNO SYS_WINNO,D.LEVELID,decode(D.NODEICO,null,' ',D.NODEICO) NODEICO,D.BINDING_DATA FROM  WF_CAR.SYS_MENU_NODE D, (SELECT NODEID FROM  WF_CAR.SYS_ROLE_MENU A WHERE  A.ROLEID IN ('')) C, WF_CAR.SYS_MENU_PARENTS E WHERE E.NODEID=C.NODEID AND D.NODEID=E.PARENT_NODEID) ORDER BY LEVELID
+INFO 2019-05-26 11:41:11:
+WFINFO>>表WF_CAR.SYS_USER_SYSTEM_FUNC没有找到。
+INFO 2019-05-26 11:41:11:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select sur.roleid, sur.userid, sr.rolename  from   WF_CAR.sys_user_role sur,   WF_CAR.sys_role sr where trim(sr.roleid) = trim(sur.roleid)   and trim(sur.userid) = 'ws' order by ROLEID
+INFO 2019-05-26 11:41:11:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select sur.roleid, sur.userid, sr.rolename  from   WF_CAR.sys_user_role sur,   WF_CAR.sys_role sr where trim(sr.roleid) = trim(sur.roleid)   and trim(sur.userid) = 'ws' order by ROLEID
+INFO 2019-05-26 11:41:11:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.sys_role_table where roleid = '0'
+INFO 2019-05-26 11:41:11:
+WFINFO>>角色0有0个角色行条件被加载
+INFO 2019-05-26 11:41:11:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):SELECT * FROM (SELECT DISTINCT 'WF_CAR' SYS_PROJECTID, D.NODEID, D.LEAF, D.PARENT_NODEID, D.NODENAME,D.WINNO SYS_WINNO,D.LEVELID,decode(D.NODEICO,null,' ',D.NODEICO) NODEICO,D.BINDING_DATA FROM  WF_CAR.SYS_MENU_NODE D, (SELECT NODEID FROM  WF_CAR.SYS_ROLE_MENU A WHERE  A.ROLEID IN ('0')) C, WF_CAR.SYS_MENU_PARENTS E WHERE E.NODEID=C.NODEID AND D.NODEID=E.PARENT_NODEID) ORDER BY LEVELID
+INFO 2019-05-26 11:41:11:
+WFINFO>>表WF_CAR.SYS_USER_SYSTEM_FUNC没有找到。
+INFO 2019-05-26 11:41:11:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select 'WF_CAR:' || m.winno || ':' || rtrim(m.nodename) from  WF_CAR.sys_role_menu rm, WF_CAR.sys_menu_node m where  rm.nodeid = m.nodeid and rm.roleid in ('0') and rm.isdefault = 'Y'
+INFO 2019-05-26 11:41:11:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select attach_wins from  WF_CAR.SYS_WINDOW_DEF where winno = 2
+INFO 2019-05-26 11:41:11:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_WINDOW_DEF where winno  = 2
+INFO 2019-05-26 11:41:11:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[7ms]非JSON找到定义W:2
+INFO 2019-05-26 11:41:11:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DEF where FUNCNO=2
+INFO 2019-05-26 11:41:11:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DETAIL where FUNCNO=2 and FIELDNAME <> '***' order by ord
+INFO 2019-05-26 11:41:11:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select dispexp from  WF_CAR.User_Display_Set where funcno=2 and userid='ws'
+INFO 2019-05-26 11:41:11:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[12ms]非JSON找到定义Q:2
+INFO 2019-05-26 11:41:11:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ))
+INFO 2019-05-26 11:41:11:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:41:11:
+WFDEBUG>>*>>WF_CAR>>ws>>C581A2E8E77773E421B26A88EB508FDC>>[6ms]2:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:41:12:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select attach_wins from  WF_CAR.SYS_WINDOW_DEF where winno = 12
+INFO 2019-05-26 11:41:12:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_WINDOW_DEF where winno  = 12
+INFO 2019-05-26 11:41:12:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[6ms]非JSON找到定义W:12
+INFO 2019-05-26 11:41:12:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DEF where FUNCNO=14
+INFO 2019-05-26 11:41:12:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DETAIL where FUNCNO=14 and FIELDNAME <> '***' order by ord
+INFO 2019-05-26 11:41:12:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select dispexp from  WF_CAR.User_Display_Set where funcno=14 and userid='ws'
+INFO 2019-05-26 11:41:12:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[370ms]非JSON找到定义Q:14
+INFO 2019-05-26 11:41:12:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ))
+INFO 2019-05-26 11:41:12:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:41:12:
+WFDEBUG>>*>>WF_CAR>>ws>>C581A2E8E77773E421B26A88EB508FDC>>[7ms]14:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:41:14:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select attach_wins from  WF_CAR.SYS_WINDOW_DEF where winno = 11
+INFO 2019-05-26 11:41:14:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_WINDOW_DEF where winno  = 11
+INFO 2019-05-26 11:41:14:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[5ms]非JSON找到定义W:11
+INFO 2019-05-26 11:41:14:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_FORM_DEF where FUNCNO=13
+INFO 2019-05-26 11:41:14:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_FORM_DETAIL where FUNCNO=13 order by ord
+INFO 2019-05-26 11:41:14:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[15ms]非JSON找到定义F:13
+INFO 2019-05-26 11:41:14:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select sql from WF_CAR.sys_bind_sql where sqlid='8ad087d0b2843324352bb5f7a88b7787'
+INFO 2019-05-26 11:41:14:
+WFDEBUG>>*>>WF_CAR>>ws>>C581A2E8E77773E421B26A88EB508FDC>>[1ms]后台绑定sql数据完成。SQL:select 'ws' userid,                'ws' username,                'ws' password,                '男' sex,                '湖北黄冈' address,                '139959766290' mobilephone,                '23' age,                '4223434342424' idcard                from dual
+INFO 2019-05-26 11:46:08:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select sur.roleid, sur.userid, sr.rolename  from   WF_CAR.sys_user_role sur,   WF_CAR.sys_role sr where trim(sr.roleid) = trim(sur.roleid)   and trim(sur.userid) = 'ws' order by ROLEID
+INFO 2019-05-26 11:46:08:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):SELECT * FROM (SELECT DISTINCT 'WF_CAR' SYS_PROJECTID, D.NODEID, D.LEAF, D.PARENT_NODEID, D.NODENAME,D.WINNO SYS_WINNO,D.LEVELID,decode(D.NODEICO,null,' ',D.NODEICO) NODEICO,D.BINDING_DATA FROM  WF_CAR.SYS_MENU_NODE D, (SELECT NODEID FROM  WF_CAR.SYS_ROLE_MENU A WHERE  A.ROLEID IN ('')) C, WF_CAR.SYS_MENU_PARENTS E WHERE E.NODEID=C.NODEID AND D.NODEID=E.PARENT_NODEID) ORDER BY LEVELID
+INFO 2019-05-26 11:46:08:
+WFINFO>>表WF_CAR.SYS_USER_SYSTEM_FUNC没有找到。
+INFO 2019-05-26 11:46:08:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select sur.roleid, sur.userid, sr.rolename  from   WF_CAR.sys_user_role sur,   WF_CAR.sys_role sr where trim(sr.roleid) = trim(sur.roleid)   and trim(sur.userid) = 'ws' order by ROLEID
+INFO 2019-05-26 11:46:08:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select sur.roleid, sur.userid, sr.rolename  from   WF_CAR.sys_user_role sur,   WF_CAR.sys_role sr where trim(sr.roleid) = trim(sur.roleid)   and trim(sur.userid) = 'ws' order by ROLEID
+INFO 2019-05-26 11:46:08:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.sys_role_table where roleid = '0'
+INFO 2019-05-26 11:46:08:
+WFINFO>>角色0有0个角色行条件被加载
+INFO 2019-05-26 11:46:08:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):SELECT * FROM (SELECT DISTINCT 'WF_CAR' SYS_PROJECTID, D.NODEID, D.LEAF, D.PARENT_NODEID, D.NODENAME,D.WINNO SYS_WINNO,D.LEVELID,decode(D.NODEICO,null,' ',D.NODEICO) NODEICO,D.BINDING_DATA FROM  WF_CAR.SYS_MENU_NODE D, (SELECT NODEID FROM  WF_CAR.SYS_ROLE_MENU A WHERE  A.ROLEID IN ('0')) C, WF_CAR.SYS_MENU_PARENTS E WHERE E.NODEID=C.NODEID AND D.NODEID=E.PARENT_NODEID) ORDER BY LEVELID
+INFO 2019-05-26 11:46:08:
+WFINFO>>表WF_CAR.SYS_USER_SYSTEM_FUNC没有找到。
+INFO 2019-05-26 11:46:08:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select 'WF_CAR:' || m.winno || ':' || rtrim(m.nodename) from  WF_CAR.sys_role_menu rm, WF_CAR.sys_menu_node m where  rm.nodeid = m.nodeid and rm.roleid in ('0') and rm.isdefault = 'Y'
+INFO 2019-05-26 11:46:08:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select attach_wins from  WF_CAR.SYS_WINDOW_DEF where winno = 2
+INFO 2019-05-26 11:46:08:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_WINDOW_DEF where winno  = 2
+INFO 2019-05-26 11:46:08:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[4ms]非JSON找到定义W:2
+INFO 2019-05-26 11:46:08:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DEF where FUNCNO=2
+INFO 2019-05-26 11:46:08:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DETAIL where FUNCNO=2 and FIELDNAME <> '***' order by ord
+INFO 2019-05-26 11:46:08:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select dispexp from  WF_CAR.User_Display_Set where funcno=2 and userid='ws'
+INFO 2019-05-26 11:46:08:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[19ms]非JSON找到定义Q:2
+INFO 2019-05-26 11:46:08:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ))
+INFO 2019-05-26 11:46:08:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:46:08:
+WFDEBUG>>*>>WF_CAR>>ws>>C581A2E8E77773E421B26A88EB508FDC>>[6ms]2:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:46:09:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select attach_wins from  WF_CAR.SYS_WINDOW_DEF where winno = 12
+INFO 2019-05-26 11:46:09:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_WINDOW_DEF where winno  = 12
+INFO 2019-05-26 11:46:09:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[19ms]非JSON找到定义W:12
+INFO 2019-05-26 11:46:09:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DEF where FUNCNO=14
+INFO 2019-05-26 11:46:09:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DETAIL where FUNCNO=14 and FIELDNAME <> '***' order by ord
+INFO 2019-05-26 11:46:09:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select dispexp from  WF_CAR.User_Display_Set where funcno=14 and userid='ws'
+INFO 2019-05-26 11:46:09:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[15ms]非JSON找到定义Q:14
+INFO 2019-05-26 11:46:09:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ))
+INFO 2019-05-26 11:46:09:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:46:09:
+WFDEBUG>>*>>WF_CAR>>ws>>C581A2E8E77773E421B26A88EB508FDC>>[4ms]14:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:46:10:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select attach_wins from  WF_CAR.SYS_WINDOW_DEF where winno = 9
+INFO 2019-05-26 11:46:10:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_WINDOW_DEF where winno  = 9
+INFO 2019-05-26 11:46:10:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[5ms]非JSON找到定义W:9
+INFO 2019-05-26 11:46:10:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_FORM_DEF where FUNCNO=12
+INFO 2019-05-26 11:46:10:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_FORM_DETAIL where FUNCNO=12 order by ord
+INFO 2019-05-26 11:46:10:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[7ms]非JSON找到定义F:12
+INFO 2019-05-26 11:47:09:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select sur.roleid, sur.userid, sr.rolename  from   WF_CAR.sys_user_role sur,   WF_CAR.sys_role sr where trim(sr.roleid) = trim(sur.roleid)   and trim(sur.userid) = 'ws' order by ROLEID
+INFO 2019-05-26 11:47:09:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):SELECT * FROM (SELECT DISTINCT 'WF_CAR' SYS_PROJECTID, D.NODEID, D.LEAF, D.PARENT_NODEID, D.NODENAME,D.WINNO SYS_WINNO,D.LEVELID,decode(D.NODEICO,null,' ',D.NODEICO) NODEICO,D.BINDING_DATA FROM  WF_CAR.SYS_MENU_NODE D, (SELECT NODEID FROM  WF_CAR.SYS_ROLE_MENU A WHERE  A.ROLEID IN ('')) C, WF_CAR.SYS_MENU_PARENTS E WHERE E.NODEID=C.NODEID AND D.NODEID=E.PARENT_NODEID) ORDER BY LEVELID
+INFO 2019-05-26 11:47:09:
+WFINFO>>表WF_CAR.SYS_USER_SYSTEM_FUNC没有找到。
+INFO 2019-05-26 11:47:09:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select sur.roleid, sur.userid, sr.rolename  from   WF_CAR.sys_user_role sur,   WF_CAR.sys_role sr where trim(sr.roleid) = trim(sur.roleid)   and trim(sur.userid) = 'ws' order by ROLEID
+INFO 2019-05-26 11:47:09:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select sur.roleid, sur.userid, sr.rolename  from   WF_CAR.sys_user_role sur,   WF_CAR.sys_role sr where trim(sr.roleid) = trim(sur.roleid)   and trim(sur.userid) = 'ws' order by ROLEID
+INFO 2019-05-26 11:47:09:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.sys_role_table where roleid = '0'
+INFO 2019-05-26 11:47:09:
+WFINFO>>角色0有0个角色行条件被加载
+INFO 2019-05-26 11:47:09:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):SELECT * FROM (SELECT DISTINCT 'WF_CAR' SYS_PROJECTID, D.NODEID, D.LEAF, D.PARENT_NODEID, D.NODENAME,D.WINNO SYS_WINNO,D.LEVELID,decode(D.NODEICO,null,' ',D.NODEICO) NODEICO,D.BINDING_DATA FROM  WF_CAR.SYS_MENU_NODE D, (SELECT NODEID FROM  WF_CAR.SYS_ROLE_MENU A WHERE  A.ROLEID IN ('0')) C, WF_CAR.SYS_MENU_PARENTS E WHERE E.NODEID=C.NODEID AND D.NODEID=E.PARENT_NODEID) ORDER BY LEVELID
+INFO 2019-05-26 11:47:09:
+WFINFO>>表WF_CAR.SYS_USER_SYSTEM_FUNC没有找到。
+INFO 2019-05-26 11:47:09:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select 'WF_CAR:' || m.winno || ':' || rtrim(m.nodename) from  WF_CAR.sys_role_menu rm, WF_CAR.sys_menu_node m where  rm.nodeid = m.nodeid and rm.roleid in ('0') and rm.isdefault = 'Y'
+INFO 2019-05-26 11:47:09:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select attach_wins from  WF_CAR.SYS_WINDOW_DEF where winno = 2
+INFO 2019-05-26 11:47:09:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_WINDOW_DEF where winno  = 2
+INFO 2019-05-26 11:47:09:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[5ms]非JSON找到定义W:2
+INFO 2019-05-26 11:47:09:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DEF where FUNCNO=2
+INFO 2019-05-26 11:47:09:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DETAIL where FUNCNO=2 and FIELDNAME <> '***' order by ord
+INFO 2019-05-26 11:47:09:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select dispexp from  WF_CAR.User_Display_Set where funcno=2 and userid='ws'
+INFO 2019-05-26 11:47:09:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[13ms]非JSON找到定义Q:2
+INFO 2019-05-26 11:47:09:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ))
+INFO 2019-05-26 11:47:09:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:47:09:
+WFDEBUG>>*>>WF_CAR>>ws>>C581A2E8E77773E421B26A88EB508FDC>>[4ms]2:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:47:10:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select attach_wins from  WF_CAR.SYS_WINDOW_DEF where winno = 12
+INFO 2019-05-26 11:47:12:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select attach_wins from  WF_CAR.SYS_WINDOW_DEF where winno = 12
+INFO 2019-05-26 11:47:12:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_WINDOW_DEF where winno  = 12
+INFO 2019-05-26 11:47:12:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_WINDOW_DEF where winno  = 12
+INFO 2019-05-26 11:47:12:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[1524ms]非JSON找到定义W:12
+INFO 2019-05-26 11:47:12:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[28ms]非JSON找到定义W:12
+INFO 2019-05-26 11:47:12:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DEF where FUNCNO=14
+INFO 2019-05-26 11:47:12:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DETAIL where FUNCNO=14 and FIELDNAME <> '***' order by ord
+INFO 2019-05-26 11:47:12:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select dispexp from  WF_CAR.User_Display_Set where funcno=14 and userid='ws'
+INFO 2019-05-26 11:47:12:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DEF where FUNCNO=14
+INFO 2019-05-26 11:47:12:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[9ms]非JSON找到定义Q:14
+INFO 2019-05-26 11:47:12:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DETAIL where FUNCNO=14 and FIELDNAME <> '***' order by ord
+INFO 2019-05-26 11:47:12:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select dispexp from  WF_CAR.User_Display_Set where funcno=14 and userid='ws'
+INFO 2019-05-26 11:47:12:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[11ms]非JSON找到定义Q:14
+INFO 2019-05-26 11:47:12:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ))
+INFO 2019-05-26 11:47:12:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:47:12:
+WFDEBUG>>*>>WF_CAR>>ws>>C581A2E8E77773E421B26A88EB508FDC>>[3ms]14:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:47:13:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select attach_wins from  WF_CAR.SYS_WINDOW_DEF where winno = 9
+INFO 2019-05-26 11:47:13:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_WINDOW_DEF where winno  = 9
+INFO 2019-05-26 11:47:13:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[6ms]非JSON找到定义W:9
+INFO 2019-05-26 11:47:13:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_FORM_DEF where FUNCNO=12
+INFO 2019-05-26 11:47:13:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_FORM_DETAIL where FUNCNO=12 order by ord
+INFO 2019-05-26 11:47:13:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[9ms]非JSON找到定义F:12
+INFO 2019-05-26 11:49:05:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlObjArray):select  WF_CAR.Sys_File_Seq.Nextval from dual
+INFO 2019-05-26 11:50:56:
+WFDEBUG>>*>>WF_CAR>>ws>>C581A2E8E77773E421B26A88EB508FDC>>***CMD={check_func:"escape",proc0:"user_insert",data0:[{name:"ui.username",value:"曹威威",type:"CHAR"},{name:"ui.userid",value:"cww",type:"CHAR"},{name:"ui.userheadfile",value:"24223fff65948bf9&8800276_184927469000_2.png&.png",type:"CHAR"},{name:"ui.sex",value:"男",type:"CHAR"},{name:"ui.password",value:"cww",type:"CHAR"},{name:"ui.mobilephone",value:"13566942232",type:"NUMBER"},{name:"ui.idcard",value:"330781198509076593",type:"NUMBER"},{name:"ui.age",value:"22",type:"NUMBER"},{name:"ui.address",value:"湖北大冶",type:"CHAR"},{name:"userinfo.userid",value:"ws",type:"CHAR"}],wfName:"", wfAct:"", wfNodeId:"", wfState:"", wfUniKey:"", wfVars:"", wfKeyVal:"", wfComment:"", wfCollab:""}
+INFO 2019-05-26 11:50:59:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>调用过程函数 {call user_insert(?,?,?,?,?,?,?,?,?,?,?)}
+参数列表	参数名: 值  --  类型
+	ui.username: 曹威威 --  CHAR
+	ui.userid: cww --  CHAR
+	ui.userheadfile: 24223fff65948bf9&8800276_184927469000_2.png&.png --  CHAR
+	ui.sex: 男 --  CHAR
+	ui.password: cww --  CHAR
+	ui.mobilephone: 13566942232 --  NUMBER
+	ui.idcard: 330781198509076593 --  NUMBER
+	ui.age: 22 --  NUMBER
+	ui.address: 湖北大冶 --  CHAR
+	userinfo.userid: ws --  CHAR
+
+INFO 2019-05-26 11:51:03:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select sur.roleid, sur.userid, sr.rolename  from   WF_CAR.sys_user_role sur,   WF_CAR.sys_role sr where trim(sr.roleid) = trim(sur.roleid)   and trim(sur.userid) = 'ws' order by ROLEID
+INFO 2019-05-26 11:51:03:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):SELECT * FROM (SELECT DISTINCT 'WF_CAR' SYS_PROJECTID, D.NODEID, D.LEAF, D.PARENT_NODEID, D.NODENAME,D.WINNO SYS_WINNO,D.LEVELID,decode(D.NODEICO,null,' ',D.NODEICO) NODEICO,D.BINDING_DATA FROM  WF_CAR.SYS_MENU_NODE D, (SELECT NODEID FROM  WF_CAR.SYS_ROLE_MENU A WHERE  A.ROLEID IN ('')) C, WF_CAR.SYS_MENU_PARENTS E WHERE E.NODEID=C.NODEID AND D.NODEID=E.PARENT_NODEID) ORDER BY LEVELID
+INFO 2019-05-26 11:51:03:
+WFINFO>>表WF_CAR.SYS_USER_SYSTEM_FUNC没有找到。
+INFO 2019-05-26 11:51:03:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select sur.roleid, sur.userid, sr.rolename  from   WF_CAR.sys_user_role sur,   WF_CAR.sys_role sr where trim(sr.roleid) = trim(sur.roleid)   and trim(sur.userid) = 'ws' order by ROLEID
+INFO 2019-05-26 11:51:03:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select sur.roleid, sur.userid, sr.rolename  from   WF_CAR.sys_user_role sur,   WF_CAR.sys_role sr where trim(sr.roleid) = trim(sur.roleid)   and trim(sur.userid) = 'ws' order by ROLEID
+INFO 2019-05-26 11:51:03:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.sys_role_table where roleid = '0'
+INFO 2019-05-26 11:51:03:
+WFINFO>>角色0有0个角色行条件被加载
+INFO 2019-05-26 11:51:03:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):SELECT * FROM (SELECT DISTINCT 'WF_CAR' SYS_PROJECTID, D.NODEID, D.LEAF, D.PARENT_NODEID, D.NODENAME,D.WINNO SYS_WINNO,D.LEVELID,decode(D.NODEICO,null,' ',D.NODEICO) NODEICO,D.BINDING_DATA FROM  WF_CAR.SYS_MENU_NODE D, (SELECT NODEID FROM  WF_CAR.SYS_ROLE_MENU A WHERE  A.ROLEID IN ('0')) C, WF_CAR.SYS_MENU_PARENTS E WHERE E.NODEID=C.NODEID AND D.NODEID=E.PARENT_NODEID) ORDER BY LEVELID
+INFO 2019-05-26 11:51:03:
+WFINFO>>表WF_CAR.SYS_USER_SYSTEM_FUNC没有找到。
+INFO 2019-05-26 11:51:03:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select 'WF_CAR:' || m.winno || ':' || rtrim(m.nodename) from  WF_CAR.sys_role_menu rm, WF_CAR.sys_menu_node m where  rm.nodeid = m.nodeid and rm.roleid in ('0') and rm.isdefault = 'Y'
+INFO 2019-05-26 11:51:03:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select attach_wins from  WF_CAR.SYS_WINDOW_DEF where winno = 2
+INFO 2019-05-26 11:51:03:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_WINDOW_DEF where winno  = 2
+INFO 2019-05-26 11:51:03:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[5ms]非JSON找到定义W:2
+INFO 2019-05-26 11:51:03:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DEF where FUNCNO=2
+INFO 2019-05-26 11:51:03:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DETAIL where FUNCNO=2 and FIELDNAME <> '***' order by ord
+INFO 2019-05-26 11:51:03:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select dispexp from  WF_CAR.User_Display_Set where funcno=2 and userid='ws'
+INFO 2019-05-26 11:51:03:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[9ms]非JSON找到定义Q:2
+INFO 2019-05-26 11:51:03:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ))
+INFO 2019-05-26 11:51:03:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:51:03:
+WFDEBUG>>*>>WF_CAR>>ws>>C581A2E8E77773E421B26A88EB508FDC>>[3ms]2:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:51:07:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select attach_wins from  WF_CAR.SYS_WINDOW_DEF where winno = 12
+INFO 2019-05-26 11:51:07:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_WINDOW_DEF where winno  = 12
+INFO 2019-05-26 11:51:07:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[8ms]非JSON找到定义W:12
+INFO 2019-05-26 11:51:07:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DEF where FUNCNO=14
+INFO 2019-05-26 11:51:07:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DETAIL where FUNCNO=14 and FIELDNAME <> '***' order by ord
+INFO 2019-05-26 11:51:07:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select dispexp from  WF_CAR.User_Display_Set where funcno=14 and userid='ws'
+INFO 2019-05-26 11:51:07:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[10ms]非JSON找到定义Q:14
+INFO 2019-05-26 11:51:07:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ))
+INFO 2019-05-26 11:51:07:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:51:07:
+WFDEBUG>>*>>WF_CAR>>ws>>C581A2E8E77773E421B26A88EB508FDC>>[3ms]14:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:55:55:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select attach_wins from  WF_CAR.SYS_WINDOW_DEF where winno = 11
+INFO 2019-05-26 11:55:55:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_WINDOW_DEF where winno  = 11
+INFO 2019-05-26 11:55:55:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[6ms]非JSON找到定义W:11
+INFO 2019-05-26 11:55:55:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_FORM_DEF where FUNCNO=13
+INFO 2019-05-26 11:55:55:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_FORM_DETAIL where FUNCNO=13 order by ord
+INFO 2019-05-26 11:55:55:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[7ms]非JSON找到定义F:13
+INFO 2019-05-26 11:55:55:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select sql from WF_CAR.sys_bind_sql where sqlid='8ad087d0b2843324352bb5f7a88b7787'
+INFO 2019-05-26 11:55:55:
+WFDEBUG>>*>>WF_CAR>>ws>>C581A2E8E77773E421B26A88EB508FDC>>[2ms]后台绑定sql数据完成。SQL:select 'cww' userid,                '曹威威' username,                'cww' password,                '男' sex,                '湖北大冶' address,                '13566942232' mobilephone,                '22' age,                '330781198509076593' idcard                from dual
+INFO 2019-05-26 11:56:14:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlObjArray):select  WF_CAR.Sys_File_Seq.Nextval from dual
+INFO 2019-05-26 11:56:16:
+WFDEBUG>>*>>WF_CAR>>ws>>C581A2E8E77773E421B26A88EB508FDC>>***CMD={check_func:"escape",proc0:"user_update",data0:[{name:"ui.username",value:"曹威威",type:"CHAR"},{name:"ui.userid",value:"cww",type:"CHAR"},{name:"ui.userheadfile",value:"2a05730c00865af1&8800276_184927469000_2.png&.png",type:"CHAR"},{name:"ui.sex",value:"女",type:"CHAR"},{name:"ui.password",value:"cww",type:"CHAR"},{name:"ui.mobilephone",value:"13566942232",type:"NUMBER"},{name:"ui.idcard",value:"330781198509076593",type:"NUMBER"},{name:"ui.age",value:"22",type:"NUMBER"},{name:"ui.address",value:"湖北大冶",type:"CHAR"},{name:"userinfo.userid",value:"ws",type:"CHAR"}],wfName:"", wfAct:"", wfNodeId:"", wfState:"", wfUniKey:"", wfVars:"", wfKeyVal:"", wfComment:"", wfCollab:""}
+INFO 2019-05-26 11:56:16:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>调用过程函数 {call user_update(?,?,?,?,?,?,?,?,?,?,?)}
+参数列表	参数名: 值  --  类型
+	ui.username: 曹威威 --  CHAR
+	ui.userid: cww --  CHAR
+	ui.userheadfile: 2a05730c00865af1&8800276_184927469000_2.png&.png --  CHAR
+	ui.sex: 女 --  CHAR
+	ui.password: cww --  CHAR
+	ui.mobilephone: 13566942232 --  NUMBER
+	ui.idcard: 330781198509076593 --  NUMBER
+	ui.age: 22 --  NUMBER
+	ui.address: 湖北大冶 --  CHAR
+	userinfo.userid: ws --  CHAR
+
+INFO 2019-05-26 11:56:16:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ))
+INFO 2019-05-26 11:56:16:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:56:16:
+WFDEBUG>>*>>WF_CAR>>ws>>C581A2E8E77773E421B26A88EB508FDC>>[5ms]14:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:56:19:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select attach_wins from  WF_CAR.SYS_WINDOW_DEF where winno = 9
+INFO 2019-05-26 11:56:19:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_WINDOW_DEF where winno  = 9
+INFO 2019-05-26 11:56:19:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[6ms]非JSON找到定义W:9
+INFO 2019-05-26 11:56:19:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_FORM_DEF where FUNCNO=12
+INFO 2019-05-26 11:56:19:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_FORM_DETAIL where FUNCNO=12 order by ord
+INFO 2019-05-26 11:56:19:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[9ms]非JSON找到定义F:12
+INFO 2019-05-26 11:57:18:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlObjArray):select  WF_CAR.Sys_File_Seq.Nextval from dual
+INFO 2019-05-26 11:57:19:
+WFDEBUG>>*>>WF_CAR>>ws>>C581A2E8E77773E421B26A88EB508FDC>>***CMD={check_func:"escape",proc0:"user_insert",data0:[{name:"ui.username",value:"费新日",type:"CHAR"},{name:"ui.userid",value:"fxr",type:"CHAR"},{name:"ui.userheadfile",value:"",type:"CHAR"},{name:"ui.sex",value:"男",type:"CHAR"},{name:"ui.password",value:"fxr",type:"CHAR"},{name:"ui.mobilephone",value:"13566926393",type:"NUMBER"},{name:"ui.idcard",value:"330781198509073990",type:"NUMBER"},{name:"ui.age",value:"23",type:"NUMBER"},{name:"ui.address",value:"湖北阳新",type:"CHAR"},{name:"userinfo.userid",value:"ws",type:"CHAR"}],wfName:"", wfAct:"", wfNodeId:"", wfState:"", wfUniKey:"", wfVars:"", wfKeyVal:"", wfComment:"", wfCollab:""}
+INFO 2019-05-26 11:57:19:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>调用过程函数 {call user_insert(?,?,?,?,?,?,?,?,?,?,?)}
+参数列表	参数名: 值  --  类型
+	ui.username: 费新日 --  CHAR
+	ui.userid: fxr --  CHAR
+	ui.userheadfile:  --  CHAR
+	ui.sex: 男 --  CHAR
+	ui.password: fxr --  CHAR
+	ui.mobilephone: 13566926393 --  NUMBER
+	ui.idcard: 330781198509073990 --  NUMBER
+	ui.age: 23 --  NUMBER
+	ui.address: 湖北阳新 --  CHAR
+	userinfo.userid: ws --  CHAR
+
+INFO 2019-05-26 11:57:19:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ))
+INFO 2019-05-26 11:57:19:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:57:19:
+WFDEBUG>>*>>WF_CAR>>ws>>C581A2E8E77773E421B26A88EB508FDC>>[5ms]14:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:57:32:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select sql from WF_CAR.sys_bind_sql where sqlid='8ad087d0b2843324352bb5f7a88b7787'
+INFO 2019-05-26 11:57:32:
+WFDEBUG>>*>>WF_CAR>>ws>>C581A2E8E77773E421B26A88EB508FDC>>[2ms]后台绑定sql数据完成。SQL:select 'fxr' userid,                '费新日' username,                'fxr' password,                '男' sex,                '湖北阳新' address,                '13566926393' mobilephone,                '23' age,                '330781198509073990' idcard                from dual
+INFO 2019-05-26 11:57:37:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlObjArray):select  WF_CAR.Sys_File_Seq.Nextval from dual
+INFO 2019-05-26 11:57:41:
+WFDEBUG>>*>>WF_CAR>>ws>>C581A2E8E77773E421B26A88EB508FDC>>***CMD={check_func:"escape",proc0:"user_update",data0:[{name:"ui.username",value:"费新日",type:"CHAR"},{name:"ui.userid",value:"fxr",type:"CHAR"},{name:"ui.userheadfile",value:"71d29cf323adb2a2&8800276_184927469000_2.png&.png",type:"CHAR"},{name:"ui.sex",value:"男",type:"CHAR"},{name:"ui.password",value:"fxr",type:"CHAR"},{name:"ui.mobilephone",value:"13566926393",type:"NUMBER"},{name:"ui.idcard",value:"330781198509073990",type:"NUMBER"},{name:"ui.age",value:"23",type:"NUMBER"},{name:"ui.address",value:"湖北阳新",type:"CHAR"},{name:"userinfo.userid",value:"ws",type:"CHAR"}],wfName:"", wfAct:"", wfNodeId:"", wfState:"", wfUniKey:"", wfVars:"", wfKeyVal:"", wfComment:"", wfCollab:""}
+INFO 2019-05-26 11:57:41:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>调用过程函数 {call user_update(?,?,?,?,?,?,?,?,?,?,?)}
+参数列表	参数名: 值  --  类型
+	ui.username: 费新日 --  CHAR
+	ui.userid: fxr --  CHAR
+	ui.userheadfile: 71d29cf323adb2a2&8800276_184927469000_2.png&.png --  CHAR
+	ui.sex: 男 --  CHAR
+	ui.password: fxr --  CHAR
+	ui.mobilephone: 13566926393 --  NUMBER
+	ui.idcard: 330781198509073990 --  NUMBER
+	ui.age: 23 --  NUMBER
+	ui.address: 湖北阳新 --  CHAR
+	userinfo.userid: ws --  CHAR
+
+INFO 2019-05-26 11:57:41:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ))
+INFO 2019-05-26 11:57:41:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:57:41:
+WFDEBUG>>*>>WF_CAR>>ws>>C581A2E8E77773E421B26A88EB508FDC>>[6ms]14:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:58:50:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select sur.roleid, sur.userid, sr.rolename  from   WF_CAR.sys_user_role sur,   WF_CAR.sys_role sr where trim(sr.roleid) = trim(sur.roleid)   and trim(sur.userid) = 'ws' order by ROLEID
+INFO 2019-05-26 11:58:50:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):SELECT * FROM (SELECT DISTINCT 'WF_CAR' SYS_PROJECTID, D.NODEID, D.LEAF, D.PARENT_NODEID, D.NODENAME,D.WINNO SYS_WINNO,D.LEVELID,decode(D.NODEICO,null,' ',D.NODEICO) NODEICO,D.BINDING_DATA FROM  WF_CAR.SYS_MENU_NODE D, (SELECT NODEID FROM  WF_CAR.SYS_ROLE_MENU A WHERE  A.ROLEID IN ('')) C, WF_CAR.SYS_MENU_PARENTS E WHERE E.NODEID=C.NODEID AND D.NODEID=E.PARENT_NODEID) ORDER BY LEVELID
+INFO 2019-05-26 11:58:50:
+WFINFO>>表WF_CAR.SYS_USER_SYSTEM_FUNC没有找到。
+INFO 2019-05-26 11:58:50:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select sur.roleid, sur.userid, sr.rolename  from   WF_CAR.sys_user_role sur,   WF_CAR.sys_role sr where trim(sr.roleid) = trim(sur.roleid)   and trim(sur.userid) = 'ws' order by ROLEID
+INFO 2019-05-26 11:58:50:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select sur.roleid, sur.userid, sr.rolename  from   WF_CAR.sys_user_role sur,   WF_CAR.sys_role sr where trim(sr.roleid) = trim(sur.roleid)   and trim(sur.userid) = 'ws' order by ROLEID
+INFO 2019-05-26 11:58:50:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.sys_role_table where roleid = '0'
+INFO 2019-05-26 11:58:50:
+WFINFO>>角色0有0个角色行条件被加载
+INFO 2019-05-26 11:58:50:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):SELECT * FROM (SELECT DISTINCT 'WF_CAR' SYS_PROJECTID, D.NODEID, D.LEAF, D.PARENT_NODEID, D.NODENAME,D.WINNO SYS_WINNO,D.LEVELID,decode(D.NODEICO,null,' ',D.NODEICO) NODEICO,D.BINDING_DATA FROM  WF_CAR.SYS_MENU_NODE D, (SELECT NODEID FROM  WF_CAR.SYS_ROLE_MENU A WHERE  A.ROLEID IN ('0')) C, WF_CAR.SYS_MENU_PARENTS E WHERE E.NODEID=C.NODEID AND D.NODEID=E.PARENT_NODEID) ORDER BY LEVELID
+INFO 2019-05-26 11:58:50:
+WFINFO>>表WF_CAR.SYS_USER_SYSTEM_FUNC没有找到。
+INFO 2019-05-26 11:58:50:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select 'WF_CAR:' || m.winno || ':' || rtrim(m.nodename) from  WF_CAR.sys_role_menu rm, WF_CAR.sys_menu_node m where  rm.nodeid = m.nodeid and rm.roleid in ('0') and rm.isdefault = 'Y'
+INFO 2019-05-26 11:58:50:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select attach_wins from  WF_CAR.SYS_WINDOW_DEF where winno = 2
+INFO 2019-05-26 11:58:50:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_WINDOW_DEF where winno  = 2
+INFO 2019-05-26 11:58:50:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[4ms]非JSON找到定义W:2
+INFO 2019-05-26 11:58:50:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DEF where FUNCNO=2
+INFO 2019-05-26 11:58:50:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DETAIL where FUNCNO=2 and FIELDNAME <> '***' order by ord
+INFO 2019-05-26 11:58:50:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select dispexp from  WF_CAR.User_Display_Set where funcno=2 and userid='ws'
+INFO 2019-05-26 11:58:50:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[10ms]非JSON找到定义Q:2
+INFO 2019-05-26 11:58:50:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ))
+INFO 2019-05-26 11:58:50:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:58:50:
+WFDEBUG>>*>>WF_CAR>>ws>>C581A2E8E77773E421B26A88EB508FDC>>[3ms]2:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:58:58:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select attach_wins from  WF_CAR.SYS_WINDOW_DEF where winno = 12
+INFO 2019-05-26 11:58:58:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_WINDOW_DEF where winno  = 12
+INFO 2019-05-26 11:58:58:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[677ms]非JSON找到定义W:12
+INFO 2019-05-26 11:58:58:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DEF where FUNCNO=14
+INFO 2019-05-26 11:58:58:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DETAIL where FUNCNO=14 and FIELDNAME <> '***' order by ord
+INFO 2019-05-26 11:58:58:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select dispexp from  WF_CAR.User_Display_Set where funcno=14 and userid='ws'
+INFO 2019-05-26 11:58:58:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[11ms]非JSON找到定义Q:14
+INFO 2019-05-26 11:58:58:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ))
+INFO 2019-05-26 11:58:58:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:58:58:
+WFDEBUG>>*>>WF_CAR>>ws>>C581A2E8E77773E421B26A88EB508FDC>>[4ms]14:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:59:00:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ))
+INFO 2019-05-26 11:59:00:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:59:00:
+WFDEBUG>>*>>WF_CAR>>ws>>C581A2E8E77773E421B26A88EB508FDC>>[5ms]2:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:59:02:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ))
+INFO 2019-05-26 11:59:02:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:59:02:
+WFDEBUG>>*>>WF_CAR>>ws>>C581A2E8E77773E421B26A88EB508FDC>>[5ms]14:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:59:22:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select sur.roleid, sur.userid, sr.rolename  from   WF_CAR.sys_user_role sur,   WF_CAR.sys_role sr where trim(sr.roleid) = trim(sur.roleid)   and trim(sur.userid) = 'ws' order by ROLEID
+INFO 2019-05-26 11:59:22:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):SELECT * FROM (SELECT DISTINCT 'WF_CAR' SYS_PROJECTID, D.NODEID, D.LEAF, D.PARENT_NODEID, D.NODENAME,D.WINNO SYS_WINNO,D.LEVELID,decode(D.NODEICO,null,' ',D.NODEICO) NODEICO,D.BINDING_DATA FROM  WF_CAR.SYS_MENU_NODE D, (SELECT NODEID FROM  WF_CAR.SYS_ROLE_MENU A WHERE  A.ROLEID IN ('')) C, WF_CAR.SYS_MENU_PARENTS E WHERE E.NODEID=C.NODEID AND D.NODEID=E.PARENT_NODEID) ORDER BY LEVELID
+INFO 2019-05-26 11:59:22:
+WFINFO>>表WF_CAR.SYS_USER_SYSTEM_FUNC没有找到。
+INFO 2019-05-26 11:59:22:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select sur.roleid, sur.userid, sr.rolename  from   WF_CAR.sys_user_role sur,   WF_CAR.sys_role sr where trim(sr.roleid) = trim(sur.roleid)   and trim(sur.userid) = 'ws' order by ROLEID
+INFO 2019-05-26 11:59:22:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select sur.roleid, sur.userid, sr.rolename  from   WF_CAR.sys_user_role sur,   WF_CAR.sys_role sr where trim(sr.roleid) = trim(sur.roleid)   and trim(sur.userid) = 'ws' order by ROLEID
+INFO 2019-05-26 11:59:22:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.sys_role_table where roleid = '0'
+INFO 2019-05-26 11:59:22:
+WFINFO>>角色0有0个角色行条件被加载
+INFO 2019-05-26 11:59:22:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):SELECT * FROM (SELECT DISTINCT 'WF_CAR' SYS_PROJECTID, D.NODEID, D.LEAF, D.PARENT_NODEID, D.NODENAME,D.WINNO SYS_WINNO,D.LEVELID,decode(D.NODEICO,null,' ',D.NODEICO) NODEICO,D.BINDING_DATA FROM  WF_CAR.SYS_MENU_NODE D, (SELECT NODEID FROM  WF_CAR.SYS_ROLE_MENU A WHERE  A.ROLEID IN ('0')) C, WF_CAR.SYS_MENU_PARENTS E WHERE E.NODEID=C.NODEID AND D.NODEID=E.PARENT_NODEID) ORDER BY LEVELID
+INFO 2019-05-26 11:59:22:
+WFINFO>>表WF_CAR.SYS_USER_SYSTEM_FUNC没有找到。
+INFO 2019-05-26 11:59:22:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select 'WF_CAR:' || m.winno || ':' || rtrim(m.nodename) from  WF_CAR.sys_role_menu rm, WF_CAR.sys_menu_node m where  rm.nodeid = m.nodeid and rm.roleid in ('0') and rm.isdefault = 'Y'
+INFO 2019-05-26 11:59:22:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select attach_wins from  WF_CAR.SYS_WINDOW_DEF where winno = 2
+INFO 2019-05-26 11:59:22:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_WINDOW_DEF where winno  = 2
+INFO 2019-05-26 11:59:22:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[8ms]非JSON找到定义W:2
+INFO 2019-05-26 11:59:22:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DEF where FUNCNO=2
+INFO 2019-05-26 11:59:22:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DETAIL where FUNCNO=2 and FIELDNAME <> '***' order by ord
+INFO 2019-05-26 11:59:22:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select dispexp from  WF_CAR.User_Display_Set where funcno=2 and userid='ws'
+INFO 2019-05-26 11:59:22:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[13ms]非JSON找到定义Q:2
+INFO 2019-05-26 11:59:22:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ))
+INFO 2019-05-26 11:59:22:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:59:22:
+WFDEBUG>>*>>WF_CAR>>ws>>C581A2E8E77773E421B26A88EB508FDC>>[3ms]2:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:59:26:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select attach_wins from  WF_CAR.SYS_WINDOW_DEF where winno = 12
+INFO 2019-05-26 11:59:26:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_WINDOW_DEF where winno  = 12
+INFO 2019-05-26 11:59:26:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[8ms]非JSON找到定义W:12
+INFO 2019-05-26 11:59:26:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DEF where FUNCNO=14
+INFO 2019-05-26 11:59:26:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DETAIL where FUNCNO=14 and FIELDNAME <> '***' order by ord
+INFO 2019-05-26 11:59:26:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select dispexp from  WF_CAR.User_Display_Set where funcno=14 and userid='ws'
+INFO 2019-05-26 11:59:26:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[12ms]非JSON找到定义Q:14
+INFO 2019-05-26 11:59:26:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ))
+INFO 2019-05-26 11:59:26:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:59:26:
+WFDEBUG>>*>>WF_CAR>>ws>>C581A2E8E77773E421B26A88EB508FDC>>[6ms]14:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:59:28:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ))
+INFO 2019-05-26 11:59:28:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:59:28:
+WFDEBUG>>*>>WF_CAR>>ws>>C581A2E8E77773E421B26A88EB508FDC>>[3ms]2:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:59:29:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ))
+INFO 2019-05-26 11:59:29:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 11:59:29:
+WFDEBUG>>*>>WF_CAR>>ws>>C581A2E8E77773E421B26A88EB508FDC>>[3ms]14:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ) )  where rn between 1 and 20
+ERROR2019-05-26 12:54:43:
+Exception occurred during processing request: null
+java.lang.NullPointerException
+	at wingsoft.core.action.WFInterceptor.intercept(WFInterceptor.java:63)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:245)
+	at org.apache.struts2.impl.StrutsActionProxy.execute(StrutsActionProxy.java:54)
+	at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:575)
+	at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:81)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:99)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+INFO 2019-05-26 12:54:55:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>UC变量#0-USERINFO.USERID#值为：ws
+INFO 2019-05-26 12:54:55:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>UC变量#0-USERINFO.USERNAME#值为：ws
+INFO 2019-05-26 12:54:55:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>UC变量#0-USERINFO.SEX#值为：男
+INFO 2019-05-26 12:54:55:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>UC变量#0-USERINFO.ADDRESS#值为：湖北黄冈
+INFO 2019-05-26 12:54:55:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>UC变量#0-USERINFO.MOBILEPHONE#值为：139959766290
+INFO 2019-05-26 12:54:55:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>UC变量#0-USERINFO.AGE#值为：23
+INFO 2019-05-26 12:54:55:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>UC变量#0-CURRENTYEAR#值为：2019
+INFO 2019-05-26 12:54:55:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>UC变量#0-CURRENTMONTH#值为：05
+INFO 2019-05-26 12:54:55:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>UC变量#0-CURRENTDAY#值为：26
+INFO 2019-05-26 12:54:55:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>UC变量#0-CURRENTYM#值为：201905
+INFO 2019-05-26 12:54:55:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>UC变量#0-CURRENTYMD#值为：20190526
+INFO 2019-05-26 12:54:55:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>UC变量#0-TODAY#值为：2019-05-26
+INFO 2019-05-26 12:54:55:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>UC变量#0-BYEAR#值为：2019
+INFO 2019-05-26 12:54:55:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select count(*) from user_tables where table_name = 'WF_USERINFOEX'
+INFO 2019-05-26 12:54:55:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from WF_CAR.SYS_USERINFO where USERID='ws'
+INFO 2019-05-26 12:54:55:
+ws 登录成功---Sun May 26 12:54:55 CST 2019
+INFO 2019-05-26 12:54:55:
+WFDEBUG>>*>>*>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>ws 登录成功---Sun May 26 12:54:55 CST 2019
+INFO 2019-05-26 12:54:57:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select sur.roleid, sur.userid, sr.rolename  from   WF_CAR.sys_user_role sur,   WF_CAR.sys_role sr where trim(sr.roleid) = trim(sur.roleid)   and trim(sur.userid) = 'ws' order by ROLEID
+INFO 2019-05-26 12:54:57:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):SELECT * FROM (SELECT DISTINCT 'WF_CAR' SYS_PROJECTID, D.NODEID, D.LEAF, D.PARENT_NODEID, D.NODENAME,D.WINNO SYS_WINNO,D.LEVELID,decode(D.NODEICO,null,' ',D.NODEICO) NODEICO,D.BINDING_DATA FROM  WF_CAR.SYS_MENU_NODE D, (SELECT NODEID FROM  WF_CAR.SYS_ROLE_MENU A WHERE  A.ROLEID IN ('')) C, WF_CAR.SYS_MENU_PARENTS E WHERE E.NODEID=C.NODEID AND D.NODEID=E.PARENT_NODEID) ORDER BY LEVELID
+INFO 2019-05-26 12:54:57:
+WFINFO>>表WF_CAR.SYS_USER_SYSTEM_FUNC没有找到。
+INFO 2019-05-26 12:54:57:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select sur.roleid, sur.userid, sr.rolename  from   WF_CAR.sys_user_role sur,   WF_CAR.sys_role sr where trim(sr.roleid) = trim(sur.roleid)   and trim(sur.userid) = 'ws' order by ROLEID
+INFO 2019-05-26 12:54:57:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select sur.roleid, sur.userid, sr.rolename  from   WF_CAR.sys_user_role sur,   WF_CAR.sys_role sr where trim(sr.roleid) = trim(sur.roleid)   and trim(sur.userid) = 'ws' order by ROLEID
+INFO 2019-05-26 12:54:57:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.sys_role_table where roleid = '0'
+INFO 2019-05-26 12:54:57:
+WFINFO>>角色0有0个角色行条件被加载
+INFO 2019-05-26 12:54:57:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):SELECT * FROM (SELECT DISTINCT 'WF_CAR' SYS_PROJECTID, D.NODEID, D.LEAF, D.PARENT_NODEID, D.NODENAME,D.WINNO SYS_WINNO,D.LEVELID,decode(D.NODEICO,null,' ',D.NODEICO) NODEICO,D.BINDING_DATA FROM  WF_CAR.SYS_MENU_NODE D, (SELECT NODEID FROM  WF_CAR.SYS_ROLE_MENU A WHERE  A.ROLEID IN ('0')) C, WF_CAR.SYS_MENU_PARENTS E WHERE E.NODEID=C.NODEID AND D.NODEID=E.PARENT_NODEID) ORDER BY LEVELID
+INFO 2019-05-26 12:54:57:
+WFINFO>>表WF_CAR.SYS_USER_SYSTEM_FUNC没有找到。
+INFO 2019-05-26 12:54:57:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select 'WF_CAR:' || m.winno || ':' || rtrim(m.nodename) from  WF_CAR.sys_role_menu rm, WF_CAR.sys_menu_node m where  rm.nodeid = m.nodeid and rm.roleid in ('0') and rm.isdefault = 'Y'
+INFO 2019-05-26 12:54:57:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select attach_wins from  WF_CAR.SYS_WINDOW_DEF where winno = 2
+INFO 2019-05-26 12:54:57:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_WINDOW_DEF where winno  = 2
+INFO 2019-05-26 12:54:57:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[4ms]非JSON找到定义W:2
+INFO 2019-05-26 12:54:57:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DEF where FUNCNO=2
+INFO 2019-05-26 12:54:57:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DETAIL where FUNCNO=2 and FIELDNAME <> '***' order by ord
+INFO 2019-05-26 12:54:57:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select dispexp from  WF_CAR.User_Display_Set where funcno=2 and userid='ws'
+INFO 2019-05-26 12:54:57:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[7ms]非JSON找到定义Q:2
+INFO 2019-05-26 12:54:57:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ))
+INFO 2019-05-26 12:54:57:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 12:54:57:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>[3ms]2:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 12:55:00:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select attach_wins from  WF_CAR.SYS_WINDOW_DEF where winno = 12
+INFO 2019-05-26 12:55:00:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_WINDOW_DEF where winno  = 12
+INFO 2019-05-26 12:55:00:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[5ms]非JSON找到定义W:12
+INFO 2019-05-26 12:55:00:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DEF where FUNCNO=14
+INFO 2019-05-26 12:55:00:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DETAIL where FUNCNO=14 and FIELDNAME <> '***' order by ord
+INFO 2019-05-26 12:55:00:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select dispexp from  WF_CAR.User_Display_Set where funcno=14 and userid='ws'
+INFO 2019-05-26 12:55:00:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[9ms]非JSON找到定义Q:14
+INFO 2019-05-26 12:55:00:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ))
+INFO 2019-05-26 12:55:00:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 12:55:00:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>[5ms]14:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 12:55:06:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select attach_wins from  WF_CAR.SYS_WINDOW_DEF where winno = 9
+INFO 2019-05-26 12:55:06:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_WINDOW_DEF where winno  = 9
+INFO 2019-05-26 12:55:06:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[3ms]非JSON找到定义W:9
+INFO 2019-05-26 12:55:06:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_FORM_DEF where FUNCNO=12
+INFO 2019-05-26 12:55:06:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_FORM_DETAIL where FUNCNO=12 order by ord
+INFO 2019-05-26 12:55:06:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[7ms]非JSON找到定义F:12
+INFO 2019-05-26 12:57:16:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ))
+INFO 2019-05-26 12:57:16:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 12:57:16:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>[3ms]14:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ) )  where rn between 1 and 20
+ERROR2019-05-26 12:57:42:
+Exception occurred during processing request: null
+java.lang.NullPointerException
+	at wingsoft.tool.printer.PrintAction.execute(PrintAction.java:158)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at ognl.OgnlRuntime.invokeMethod(OgnlRuntime.java:897)
+	at ognl.OgnlRuntime.callAppropriateMethod(OgnlRuntime.java:1299)
+	at ognl.ObjectMethodAccessor.callMethod(ObjectMethodAccessor.java:68)
+	at com.opensymphony.xwork2.ognl.accessor.XWorkMethodAccessor.callMethodWithDebugInfo(XWorkMethodAccessor.java:117)
+	at com.opensymphony.xwork2.ognl.accessor.XWorkMethodAccessor.callMethod(XWorkMethodAccessor.java:108)
+	at ognl.OgnlRuntime.callMethod(OgnlRuntime.java:1375)
+	at ognl.ASTMethod.getValueBody(ASTMethod.java:91)
+	at ognl.SimpleNode.evaluateGetValueBody(SimpleNode.java:212)
+	at ognl.SimpleNode.getValue(SimpleNode.java:258)
+	at ognl.Ognl.getValue(Ognl.java:470)
+	at ognl.Ognl.getValue(Ognl.java:434)
+	at com.opensymphony.xwork2.ognl.OgnlUtil$3.execute(OgnlUtil.java:362)
+	at com.opensymphony.xwork2.ognl.OgnlUtil.compileAndExecuteMethod(OgnlUtil.java:414)
+	at com.opensymphony.xwork2.ognl.OgnlUtil.callMethod(OgnlUtil.java:360)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invokeAction(DefaultActionInvocation.java:430)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invokeActionOnly(DefaultActionInvocation.java:290)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:251)
+	at wingsoft.core.action.WFInterceptor.intercept(WFInterceptor.java:108)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:245)
+	at org.apache.struts2.impl.StrutsActionProxy.execute(StrutsActionProxy.java:54)
+	at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:575)
+	at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:81)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:99)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+INFO 2019-05-26 13:01:22:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select attach_wins from  WF_CAR.SYS_WINDOW_DEF where winno = 11
+INFO 2019-05-26 13:01:22:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_WINDOW_DEF where winno  = 11
+INFO 2019-05-26 13:01:22:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[3ms]非JSON找到定义W:11
+INFO 2019-05-26 13:01:22:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_FORM_DEF where FUNCNO=13
+INFO 2019-05-26 13:01:22:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_FORM_DETAIL where FUNCNO=13 order by ord
+INFO 2019-05-26 13:01:22:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[8ms]非JSON找到定义F:13
+INFO 2019-05-26 13:01:23:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select sql from WF_CAR.sys_bind_sql where sqlid='8ad087d0b2843324352bb5f7a88b7787'
+INFO 2019-05-26 13:01:23:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>[1ms]后台绑定sql数据完成。SQL:select 'cww' userid,                '曹威威' username,                'cww' password,                '女' sex,                '湖北大冶' address,                '13566942232' mobilephone,                '22' age,                '330781198509076593' idcard                from dual
+INFO 2019-05-26 13:01:32:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select sql from WF_CAR.sys_bind_sql where sqlid='8ad087d0b2843324352bb5f7a88b7787'
+INFO 2019-05-26 13:01:32:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>[1ms]后台绑定sql数据完成。SQL:select 'cww' userid,                '曹威威' username,                'cww' password,                '女' sex,                '湖北大冶' address,                '13566942232' mobilephone,                '22' age,                '330781198509076593' idcard                from dual
+INFO 2019-05-26 13:03:55:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select attach_wins from  WF_CAR.SYS_WINDOW_DEF where winno = 18
+INFO 2019-05-26 13:03:55:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_WINDOW_DEF where winno  = 18
+INFO 2019-05-26 13:03:55:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[8ms]非JSON找到定义W:18
+INFO 2019-05-26 13:03:55:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DEF where FUNCNO=22
+INFO 2019-05-26 13:03:55:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DETAIL where FUNCNO=22 and FIELDNAME <> '***' order by ord
+INFO 2019-05-26 13:03:55:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select dispexp from  WF_CAR.User_Display_Set where funcno=22 and userid='ws'
+INFO 2019-05-26 13:03:55:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[16ms]非JSON找到定义Q:22
+INFO 2019-05-26 13:03:55:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select ru.ruleid,ru.carid,ru.ruletime,ru.rulevio,ru.rulemoney,ru.ruledebt,ru.rulemarks,ru.lasttime from rule ru where (1=1   ))
+INFO 2019-05-26 13:03:55:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by ru.ruletime DESC ) rn,ru.ruleid,ru.carid,ru.ruletime,ru.rulevio,ru.rulemoney,ru.ruledebt,ru.rulemarks,ru.lasttime from rule ru where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:03:55:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>[5ms]22:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by ru.ruletime DESC ) rn,ru.ruleid,ru.carid,ru.ruletime,ru.rulevio,ru.rulemoney,ru.ruledebt,ru.rulemarks,ru.lasttime from rule ru where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:03:56:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select attach_wins from  WF_CAR.SYS_WINDOW_DEF where winno = 16
+INFO 2019-05-26 13:03:56:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_WINDOW_DEF where winno  = 16
+INFO 2019-05-26 13:03:56:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[6ms]非JSON找到定义W:16
+INFO 2019-05-26 13:03:56:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DEF where FUNCNO=20
+INFO 2019-05-26 13:03:56:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DETAIL where FUNCNO=20 and FIELDNAME <> '***' order by ord
+INFO 2019-05-26 13:03:56:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select dispexp from  WF_CAR.User_Display_Set where funcno=20 and userid='ws'
+INFO 2019-05-26 13:03:56:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[11ms]非JSON找到定义Q:20
+INFO 2019-05-26 13:03:56:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select ul.userid,ul.logdetails,ul.logtime,ul.logremark from userlog ul where (1=1   ))
+INFO 2019-05-26 13:03:56:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by ul.logtime DESC ) rn,ul.userid,ul.logdetails,ul.logtime,ul.logremark from userlog ul where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:03:56:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>[7ms]20:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by ul.logtime DESC ) rn,ul.userid,ul.logdetails,ul.logtime,ul.logremark from userlog ul where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:04:18:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ))
+INFO 2019-05-26 13:04:18:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:04:18:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>[3ms]2:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:23:17:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select attach_wins from  WF_CAR.SYS_WINDOW_DEF where winno = 6
+INFO 2019-05-26 13:23:17:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_WINDOW_DEF where winno  = 6
+INFO 2019-05-26 13:23:17:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[6ms]非JSON找到定义W:6
+INFO 2019-05-26 13:23:17:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_FORM_DEF where FUNCNO=8
+INFO 2019-05-26 13:23:17:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_FORM_DETAIL where FUNCNO=8 order by ord
+INFO 2019-05-26 13:23:17:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[11ms]非JSON找到定义F:8
+INFO 2019-05-26 13:23:17:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select sql from WF_CAR.sys_bind_sql where sqlid='74cdd9b4bde78e9856bdf84e3c53354d'
+INFO 2019-05-26 13:23:17:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlObjArray):select userid key,userid from userinfo
+INFO 2019-05-26 13:23:17:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>[3ms]后台列表绑定完成。SQL:select userid key,userid from userinfo
+INFO 2019-05-26 13:23:33:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>***CMD={check_func:"escape",proc0:"car_insert",data0:[{name:"c.userid",value:"fxr",type:"CHAR"},{name:"c.registime",value:"2019-05-26",type:"DATE"},{name:"c.checktime",value:"2019-05-26",type:"DATE"},{name:"c.cartype",value:"ss",type:"CHAR"},{name:"c.carper",value:"ss",type:"CHAR"},{name:"c.carmodel",value:"ss",type:"CHAR"},{name:"c.carid",value:"ss",type:"CHAR"},{name:"c.carbrand",value:"ss",type:"CHAR"},{name:"userinfo.userid",value:"ws",type:"CHAR"}],wfName:"", wfAct:"", wfNodeId:"", wfState:"", wfUniKey:"", wfVars:"", wfKeyVal:"", wfComment:"", wfCollab:""}
+INFO 2019-05-26 13:23:33:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>调用过程函数 {call car_insert(?,?,?,?,?,?,?,?,?,?)}
+参数列表	参数名: 值  --  类型
+	c.userid: fxr --  CHAR
+	c.registime: 2019-05-26 --  DATE
+	c.checktime: 2019-05-26 --  DATE
+	c.cartype: ss --  CHAR
+	c.carper: ss --  CHAR
+	c.carmodel: ss --  CHAR
+	c.carid: ss --  CHAR
+	c.carbrand: ss --  CHAR
+	userinfo.userid: ws --  CHAR
+
+INFO 2019-05-26 13:23:33:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ))
+INFO 2019-05-26 13:23:33:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:23:33:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>[5ms]2:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:23:37:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select sql from WF_CAR.sys_bind_sql where sqlid='74cdd9b4bde78e9856bdf84e3c53354d'
+INFO 2019-05-26 13:23:37:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlObjArray):select userid key,userid from userinfo
+INFO 2019-05-26 13:23:37:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>[1ms]后台列表绑定完成。SQL:select userid key,userid from userinfo
+INFO 2019-05-26 13:23:50:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>***CMD={check_func:"escape",proc0:"car_insert",data0:[{name:"c.userid",value:"",type:"CHAR"},{name:"c.registime",value:"2019-05-26",type:"DATE"},{name:"c.checktime",value:"2019-05-26",type:"DATE"},{name:"c.cartype",value:"ss",type:"CHAR"},{name:"c.carper",value:"ss",type:"CHAR"},{name:"c.carmodel",value:"ww",type:"CHAR"},{name:"c.carid",value:"ssww",type:"CHAR"},{name:"c.carbrand",value:"ss",type:"CHAR"},{name:"userinfo.userid",value:"ws",type:"CHAR"}],wfName:"", wfAct:"", wfNodeId:"", wfState:"", wfUniKey:"", wfVars:"", wfKeyVal:"", wfComment:"", wfCollab:""}
+INFO 2019-05-26 13:23:50:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>调用过程函数 {call car_insert(?,?,?,?,?,?,?,?,?,?)}
+参数列表	参数名: 值  --  类型
+	c.userid:  --  CHAR
+	c.registime: 2019-05-26 --  DATE
+	c.checktime: 2019-05-26 --  DATE
+	c.cartype: ss --  CHAR
+	c.carper: ss --  CHAR
+	c.carmodel: ww --  CHAR
+	c.carid: ssww --  CHAR
+	c.carbrand: ss --  CHAR
+	userinfo.userid: ws --  CHAR
+
+INFO 2019-05-26 13:23:50:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>调用过程函数 car_insert
+参数列表	参数名: 值  --  类型
+	c.userid:  --  CHAR
+	c.registime: 2019-05-26 --  DATE
+	c.checktime: 2019-05-26 --  DATE
+	c.cartype: ss --  CHAR
+	c.carper: ss --  CHAR
+	c.carmodel: ww --  CHAR
+	c.carid: ssww --  CHAR
+	c.carbrand: ss --  CHAR
+	userinfo.userid: ws --  CHAR
+
+INFO 2019-05-26 13:23:57:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>***CMD={check_func:"escape",proc0:"car_insert",data0:[{name:"c.userid",value:"cww",type:"CHAR"},{name:"c.registime",value:"2019-05-26",type:"DATE"},{name:"c.checktime",value:"2019-05-26",type:"DATE"},{name:"c.cartype",value:"ss",type:"CHAR"},{name:"c.carper",value:"ss",type:"CHAR"},{name:"c.carmodel",value:"ww",type:"CHAR"},{name:"c.carid",value:"ssww",type:"CHAR"},{name:"c.carbrand",value:"ss",type:"CHAR"},{name:"userinfo.userid",value:"ws",type:"CHAR"}],wfName:"", wfAct:"", wfNodeId:"", wfState:"", wfUniKey:"", wfVars:"", wfKeyVal:"", wfComment:"", wfCollab:""}
+INFO 2019-05-26 13:23:57:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>调用过程函数 {call car_insert(?,?,?,?,?,?,?,?,?,?)}
+参数列表	参数名: 值  --  类型
+	c.userid: cww --  CHAR
+	c.registime: 2019-05-26 --  DATE
+	c.checktime: 2019-05-26 --  DATE
+	c.cartype: ss --  CHAR
+	c.carper: ss --  CHAR
+	c.carmodel: ww --  CHAR
+	c.carid: ssww --  CHAR
+	c.carbrand: ss --  CHAR
+	userinfo.userid: ws --  CHAR
+
+INFO 2019-05-26 13:23:57:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ))
+INFO 2019-05-26 13:23:57:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:23:57:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>[4ms]2:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:24:04:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>***CMD={check_func:"escape",proc0:"car_delete",data0:[{name:"c.carid",value:"ss",type:"CHAR"}],wfName:"", wfAct:"", wfNodeId:"", wfState:"", wfUniKey:"", wfVars:"", wfKeyVal:"", wfComment:"", wfCollab:""}
+INFO 2019-05-26 13:24:04:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>调用过程函数 {call car_delete(?,?)}
+参数列表	参数名: 值  --  类型
+	c.carid: ss --  CHAR
+
+INFO 2019-05-26 13:24:04:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>调用过程函数 car_delete
+参数列表	参数名: 值  --  类型
+	c.carid: ss --  CHAR
+
+INFO 2019-05-26 13:25:45:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select sur.roleid, sur.userid, sr.rolename  from   WF_CAR.sys_user_role sur,   WF_CAR.sys_role sr where trim(sr.roleid) = trim(sur.roleid)   and trim(sur.userid) = 'ws' order by ROLEID
+INFO 2019-05-26 13:25:45:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):SELECT * FROM (SELECT DISTINCT 'WF_CAR' SYS_PROJECTID, D.NODEID, D.LEAF, D.PARENT_NODEID, D.NODENAME,D.WINNO SYS_WINNO,D.LEVELID,decode(D.NODEICO,null,' ',D.NODEICO) NODEICO,D.BINDING_DATA FROM  WF_CAR.SYS_MENU_NODE D, (SELECT NODEID FROM  WF_CAR.SYS_ROLE_MENU A WHERE  A.ROLEID IN ('')) C, WF_CAR.SYS_MENU_PARENTS E WHERE E.NODEID=C.NODEID AND D.NODEID=E.PARENT_NODEID) ORDER BY LEVELID
+INFO 2019-05-26 13:25:45:
+WFINFO>>表WF_CAR.SYS_USER_SYSTEM_FUNC没有找到。
+INFO 2019-05-26 13:25:45:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select sur.roleid, sur.userid, sr.rolename  from   WF_CAR.sys_user_role sur,   WF_CAR.sys_role sr where trim(sr.roleid) = trim(sur.roleid)   and trim(sur.userid) = 'ws' order by ROLEID
+INFO 2019-05-26 13:25:45:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select sur.roleid, sur.userid, sr.rolename  from   WF_CAR.sys_user_role sur,   WF_CAR.sys_role sr where trim(sr.roleid) = trim(sur.roleid)   and trim(sur.userid) = 'ws' order by ROLEID
+INFO 2019-05-26 13:25:45:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.sys_role_table where roleid = '0'
+INFO 2019-05-26 13:25:45:
+WFINFO>>角色0有0个角色行条件被加载
+INFO 2019-05-26 13:25:45:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):SELECT * FROM (SELECT DISTINCT 'WF_CAR' SYS_PROJECTID, D.NODEID, D.LEAF, D.PARENT_NODEID, D.NODENAME,D.WINNO SYS_WINNO,D.LEVELID,decode(D.NODEICO,null,' ',D.NODEICO) NODEICO,D.BINDING_DATA FROM  WF_CAR.SYS_MENU_NODE D, (SELECT NODEID FROM  WF_CAR.SYS_ROLE_MENU A WHERE  A.ROLEID IN ('0')) C, WF_CAR.SYS_MENU_PARENTS E WHERE E.NODEID=C.NODEID AND D.NODEID=E.PARENT_NODEID) ORDER BY LEVELID
+INFO 2019-05-26 13:25:45:
+WFINFO>>表WF_CAR.SYS_USER_SYSTEM_FUNC没有找到。
+INFO 2019-05-26 13:25:45:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select 'WF_CAR:' || m.winno || ':' || rtrim(m.nodename) from  WF_CAR.sys_role_menu rm, WF_CAR.sys_menu_node m where  rm.nodeid = m.nodeid and rm.roleid in ('0') and rm.isdefault = 'Y'
+INFO 2019-05-26 13:25:45:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select attach_wins from  WF_CAR.SYS_WINDOW_DEF where winno = 2
+INFO 2019-05-26 13:25:45:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_WINDOW_DEF where winno  = 2
+INFO 2019-05-26 13:25:45:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[3ms]非JSON找到定义W:2
+INFO 2019-05-26 13:25:45:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DEF where FUNCNO=2
+INFO 2019-05-26 13:25:45:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DETAIL where FUNCNO=2 and FIELDNAME <> '***' order by ord
+INFO 2019-05-26 13:25:45:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select dispexp from  WF_CAR.User_Display_Set where funcno=2 and userid='ws'
+INFO 2019-05-26 13:25:45:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[13ms]非JSON找到定义Q:2
+INFO 2019-05-26 13:25:45:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ))
+INFO 2019-05-26 13:25:45:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:25:45:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>[7ms]2:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:25:46:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select attach_wins from  WF_CAR.SYS_WINDOW_DEF where winno = 12
+INFO 2019-05-26 13:25:46:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_WINDOW_DEF where winno  = 12
+INFO 2019-05-26 13:25:46:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[5ms]非JSON找到定义W:12
+INFO 2019-05-26 13:25:46:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DEF where FUNCNO=14
+INFO 2019-05-26 13:25:46:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DETAIL where FUNCNO=14 and FIELDNAME <> '***' order by ord
+INFO 2019-05-26 13:25:46:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select dispexp from  WF_CAR.User_Display_Set where funcno=14 and userid='ws'
+INFO 2019-05-26 13:25:46:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[10ms]非JSON找到定义Q:14
+INFO 2019-05-26 13:25:46:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ))
+INFO 2019-05-26 13:25:46:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:25:46:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>[4ms]14:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,ui.userid,ui.username,ui.password,ui.sex,ui.address,ui.mobilephone,ui.age,ui.idcard,ui.userheadfile from userinfo ui where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:25:48:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ))
+INFO 2019-05-26 13:25:48:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:25:48:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>[3ms]2:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:25:52:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>***CMD={check_func:"escape",proc0:"car_delete",data0:[{name:"c.carid",value:"ss",type:"CHAR"},{name:"MultiRows",value:"ssww;ss",type:"CHAR"},{name:"MultiCount",value:"2",type:"NUMBER"}],wfName:"", wfAct:"", wfNodeId:"", wfState:"", wfUniKey:"", wfVars:"", wfKeyVal:"", wfComment:"", wfCollab:""}
+INFO 2019-05-26 13:25:52:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>调用过程函数 {call car_delete(?,?,?,?)}
+参数列表	参数名: 值  --  类型
+	c.carid: ss --  CHAR
+	MultiRows: ssww;ss --  CHAR
+	MultiCount: 2 --  NUMBER
+
+INFO 2019-05-26 13:25:52:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ))
+INFO 2019-05-26 13:25:52:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:25:52:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>[5ms]2:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:25:55:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select sur.roleid, sur.userid, sr.rolename  from   WF_CAR.sys_user_role sur,   WF_CAR.sys_role sr where trim(sr.roleid) = trim(sur.roleid)   and trim(sur.userid) = 'ws' order by ROLEID
+INFO 2019-05-26 13:25:55:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):SELECT * FROM (SELECT DISTINCT 'WF_CAR' SYS_PROJECTID, D.NODEID, D.LEAF, D.PARENT_NODEID, D.NODENAME,D.WINNO SYS_WINNO,D.LEVELID,decode(D.NODEICO,null,' ',D.NODEICO) NODEICO,D.BINDING_DATA FROM  WF_CAR.SYS_MENU_NODE D, (SELECT NODEID FROM  WF_CAR.SYS_ROLE_MENU A WHERE  A.ROLEID IN ('')) C, WF_CAR.SYS_MENU_PARENTS E WHERE E.NODEID=C.NODEID AND D.NODEID=E.PARENT_NODEID) ORDER BY LEVELID
+INFO 2019-05-26 13:25:55:
+WFINFO>>表WF_CAR.SYS_USER_SYSTEM_FUNC没有找到。
+INFO 2019-05-26 13:25:55:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select sur.roleid, sur.userid, sr.rolename  from   WF_CAR.sys_user_role sur,   WF_CAR.sys_role sr where trim(sr.roleid) = trim(sur.roleid)   and trim(sur.userid) = 'ws' order by ROLEID
+INFO 2019-05-26 13:25:55:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select sur.roleid, sur.userid, sr.rolename  from   WF_CAR.sys_user_role sur,   WF_CAR.sys_role sr where trim(sr.roleid) = trim(sur.roleid)   and trim(sur.userid) = 'ws' order by ROLEID
+INFO 2019-05-26 13:25:55:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.sys_role_table where roleid = '0'
+INFO 2019-05-26 13:25:55:
+WFINFO>>角色0有0个角色行条件被加载
+INFO 2019-05-26 13:25:55:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):SELECT * FROM (SELECT DISTINCT 'WF_CAR' SYS_PROJECTID, D.NODEID, D.LEAF, D.PARENT_NODEID, D.NODENAME,D.WINNO SYS_WINNO,D.LEVELID,decode(D.NODEICO,null,' ',D.NODEICO) NODEICO,D.BINDING_DATA FROM  WF_CAR.SYS_MENU_NODE D, (SELECT NODEID FROM  WF_CAR.SYS_ROLE_MENU A WHERE  A.ROLEID IN ('0')) C, WF_CAR.SYS_MENU_PARENTS E WHERE E.NODEID=C.NODEID AND D.NODEID=E.PARENT_NODEID) ORDER BY LEVELID
+INFO 2019-05-26 13:25:55:
+WFINFO>>表WF_CAR.SYS_USER_SYSTEM_FUNC没有找到。
+INFO 2019-05-26 13:25:55:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select 'WF_CAR:' || m.winno || ':' || rtrim(m.nodename) from  WF_CAR.sys_role_menu rm, WF_CAR.sys_menu_node m where  rm.nodeid = m.nodeid and rm.roleid in ('0') and rm.isdefault = 'Y'
+INFO 2019-05-26 13:25:55:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select attach_wins from  WF_CAR.SYS_WINDOW_DEF where winno = 2
+INFO 2019-05-26 13:25:55:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_WINDOW_DEF where winno  = 2
+INFO 2019-05-26 13:25:55:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[3ms]非JSON找到定义W:2
+INFO 2019-05-26 13:25:55:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DEF where FUNCNO=2
+INFO 2019-05-26 13:25:56:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DETAIL where FUNCNO=2 and FIELDNAME <> '***' order by ord
+INFO 2019-05-26 13:25:56:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select dispexp from  WF_CAR.User_Display_Set where funcno=2 and userid='ws'
+INFO 2019-05-26 13:25:56:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[14ms]非JSON找到定义Q:2
+INFO 2019-05-26 13:25:56:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ))
+INFO 2019-05-26 13:25:56:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:25:56:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>[3ms]2:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:25:57:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ))
+INFO 2019-05-26 13:25:57:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:25:57:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>[3ms]2:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:25:58:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ))
+INFO 2019-05-26 13:25:58:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:25:58:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>[3ms]2:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:26:04:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>***CMD={check_func:"escape",proc0:"car_delete",data0:[{name:"c.carid",value:"ss",type:"CHAR"},{name:"MultiRows",value:"ssww;ss",type:"CHAR"},{name:"MultiCount",value:"2",type:"NUMBER"}],wfName:"", wfAct:"", wfNodeId:"", wfState:"", wfUniKey:"", wfVars:"", wfKeyVal:"", wfComment:"", wfCollab:""}
+INFO 2019-05-26 13:26:04:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>调用过程函数 {call car_delete(?,?,?,?)}
+参数列表	参数名: 值  --  类型
+	c.carid: ss --  CHAR
+	MultiRows: ssww;ss --  CHAR
+	MultiCount: 2 --  NUMBER
+
+INFO 2019-05-26 13:26:04:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ))
+INFO 2019-05-26 13:26:04:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:26:04:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>[3ms]2:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:29:18:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>***CMD={check_func:"escape",proc0:"car_delete",data0:[{name:"c.carid",value:"ssww",type:"CHAR"},{name:"MultiRows",value:"ssww",type:"CHAR"},{name:"MultiCount",value:"1",type:"NUMBER"}],wfName:"", wfAct:"", wfNodeId:"", wfState:"", wfUniKey:"", wfVars:"", wfKeyVal:"", wfComment:"", wfCollab:""}
+INFO 2019-05-26 13:29:18:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>调用过程函数 {call car_delete(?,?,?,?)}
+参数列表	参数名: 值  --  类型
+	c.carid: ssww --  CHAR
+	MultiRows: ssww --  CHAR
+	MultiCount: 1 --  NUMBER
+
+INFO 2019-05-26 13:29:18:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ))
+INFO 2019-05-26 13:29:18:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:29:18:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>[6ms]2:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:29:20:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select sur.roleid, sur.userid, sr.rolename  from   WF_CAR.sys_user_role sur,   WF_CAR.sys_role sr where trim(sr.roleid) = trim(sur.roleid)   and trim(sur.userid) = 'ws' order by ROLEID
+INFO 2019-05-26 13:29:21:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):SELECT * FROM (SELECT DISTINCT 'WF_CAR' SYS_PROJECTID, D.NODEID, D.LEAF, D.PARENT_NODEID, D.NODENAME,D.WINNO SYS_WINNO,D.LEVELID,decode(D.NODEICO,null,' ',D.NODEICO) NODEICO,D.BINDING_DATA FROM  WF_CAR.SYS_MENU_NODE D, (SELECT NODEID FROM  WF_CAR.SYS_ROLE_MENU A WHERE  A.ROLEID IN ('')) C, WF_CAR.SYS_MENU_PARENTS E WHERE E.NODEID=C.NODEID AND D.NODEID=E.PARENT_NODEID) ORDER BY LEVELID
+INFO 2019-05-26 13:29:21:
+WFINFO>>表WF_CAR.SYS_USER_SYSTEM_FUNC没有找到。
+INFO 2019-05-26 13:29:21:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select sur.roleid, sur.userid, sr.rolename  from   WF_CAR.sys_user_role sur,   WF_CAR.sys_role sr where trim(sr.roleid) = trim(sur.roleid)   and trim(sur.userid) = 'ws' order by ROLEID
+INFO 2019-05-26 13:29:21:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select sur.roleid, sur.userid, sr.rolename  from   WF_CAR.sys_user_role sur,   WF_CAR.sys_role sr where trim(sr.roleid) = trim(sur.roleid)   and trim(sur.userid) = 'ws' order by ROLEID
+INFO 2019-05-26 13:29:21:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.sys_role_table where roleid = '0'
+INFO 2019-05-26 13:29:21:
+WFINFO>>角色0有0个角色行条件被加载
+INFO 2019-05-26 13:29:21:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):SELECT * FROM (SELECT DISTINCT 'WF_CAR' SYS_PROJECTID, D.NODEID, D.LEAF, D.PARENT_NODEID, D.NODENAME,D.WINNO SYS_WINNO,D.LEVELID,decode(D.NODEICO,null,' ',D.NODEICO) NODEICO,D.BINDING_DATA FROM  WF_CAR.SYS_MENU_NODE D, (SELECT NODEID FROM  WF_CAR.SYS_ROLE_MENU A WHERE  A.ROLEID IN ('0')) C, WF_CAR.SYS_MENU_PARENTS E WHERE E.NODEID=C.NODEID AND D.NODEID=E.PARENT_NODEID) ORDER BY LEVELID
+INFO 2019-05-26 13:29:21:
+WFINFO>>表WF_CAR.SYS_USER_SYSTEM_FUNC没有找到。
+INFO 2019-05-26 13:29:21:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select 'WF_CAR:' || m.winno || ':' || rtrim(m.nodename) from  WF_CAR.sys_role_menu rm, WF_CAR.sys_menu_node m where  rm.nodeid = m.nodeid and rm.roleid in ('0') and rm.isdefault = 'Y'
+INFO 2019-05-26 13:29:21:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select attach_wins from  WF_CAR.SYS_WINDOW_DEF where winno = 2
+INFO 2019-05-26 13:29:21:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_WINDOW_DEF where winno  = 2
+INFO 2019-05-26 13:29:21:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[2ms]非JSON找到定义W:2
+INFO 2019-05-26 13:29:21:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DEF where FUNCNO=2
+INFO 2019-05-26 13:29:21:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DETAIL where FUNCNO=2 and FIELDNAME <> '***' order by ord
+INFO 2019-05-26 13:29:21:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select dispexp from  WF_CAR.User_Display_Set where funcno=2 and userid='ws'
+INFO 2019-05-26 13:29:21:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[6ms]非JSON找到定义Q:2
+INFO 2019-05-26 13:29:21:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ))
+INFO 2019-05-26 13:29:21:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:29:21:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>[7ms]2:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:29:21:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select sur.roleid, sur.userid, sr.rolename  from   WF_CAR.sys_user_role sur,   WF_CAR.sys_role sr where trim(sr.roleid) = trim(sur.roleid)   and trim(sur.userid) = 'ws' order by ROLEID
+INFO 2019-05-26 13:29:21:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):SELECT * FROM (SELECT DISTINCT 'WF_CAR' SYS_PROJECTID, D.NODEID, D.LEAF, D.PARENT_NODEID, D.NODENAME,D.WINNO SYS_WINNO,D.LEVELID,decode(D.NODEICO,null,' ',D.NODEICO) NODEICO,D.BINDING_DATA FROM  WF_CAR.SYS_MENU_NODE D, (SELECT NODEID FROM  WF_CAR.SYS_ROLE_MENU A WHERE  A.ROLEID IN ('')) C, WF_CAR.SYS_MENU_PARENTS E WHERE E.NODEID=C.NODEID AND D.NODEID=E.PARENT_NODEID) ORDER BY LEVELID
+INFO 2019-05-26 13:29:21:
+WFINFO>>表WF_CAR.SYS_USER_SYSTEM_FUNC没有找到。
+INFO 2019-05-26 13:29:21:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select sur.roleid, sur.userid, sr.rolename  from   WF_CAR.sys_user_role sur,   WF_CAR.sys_role sr where trim(sr.roleid) = trim(sur.roleid)   and trim(sur.userid) = 'ws' order by ROLEID
+INFO 2019-05-26 13:29:22:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select sur.roleid, sur.userid, sr.rolename  from   WF_CAR.sys_user_role sur,   WF_CAR.sys_role sr where trim(sr.roleid) = trim(sur.roleid)   and trim(sur.userid) = 'ws' order by ROLEID
+INFO 2019-05-26 13:29:22:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.sys_role_table where roleid = '0'
+INFO 2019-05-26 13:29:22:
+WFINFO>>角色0有0个角色行条件被加载
+INFO 2019-05-26 13:29:22:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):SELECT * FROM (SELECT DISTINCT 'WF_CAR' SYS_PROJECTID, D.NODEID, D.LEAF, D.PARENT_NODEID, D.NODENAME,D.WINNO SYS_WINNO,D.LEVELID,decode(D.NODEICO,null,' ',D.NODEICO) NODEICO,D.BINDING_DATA FROM  WF_CAR.SYS_MENU_NODE D, (SELECT NODEID FROM  WF_CAR.SYS_ROLE_MENU A WHERE  A.ROLEID IN ('0')) C, WF_CAR.SYS_MENU_PARENTS E WHERE E.NODEID=C.NODEID AND D.NODEID=E.PARENT_NODEID) ORDER BY LEVELID
+INFO 2019-05-26 13:29:22:
+WFINFO>>表WF_CAR.SYS_USER_SYSTEM_FUNC没有找到。
+INFO 2019-05-26 13:29:22:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select 'WF_CAR:' || m.winno || ':' || rtrim(m.nodename) from  WF_CAR.sys_role_menu rm, WF_CAR.sys_menu_node m where  rm.nodeid = m.nodeid and rm.roleid in ('0') and rm.isdefault = 'Y'
+INFO 2019-05-26 13:29:22:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select attach_wins from  WF_CAR.SYS_WINDOW_DEF where winno = 2
+INFO 2019-05-26 13:29:22:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_WINDOW_DEF where winno  = 2
+INFO 2019-05-26 13:29:22:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[6ms]非JSON找到定义W:2
+INFO 2019-05-26 13:29:22:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DEF where FUNCNO=2
+INFO 2019-05-26 13:29:22:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DETAIL where FUNCNO=2 and FIELDNAME <> '***' order by ord
+INFO 2019-05-26 13:29:22:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select dispexp from  WF_CAR.User_Display_Set where funcno=2 and userid='ws'
+INFO 2019-05-26 13:29:22:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[10ms]非JSON找到定义Q:2
+INFO 2019-05-26 13:29:22:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ))
+INFO 2019-05-26 13:29:22:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:29:22:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>[4ms]2:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:29:23:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ))
+INFO 2019-05-26 13:29:23:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:29:23:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>[5ms]2:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:29:26:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select attach_wins from  WF_CAR.SYS_WINDOW_DEF where winno = 16
+INFO 2019-05-26 13:29:26:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_WINDOW_DEF where winno  = 16
+INFO 2019-05-26 13:29:26:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[5ms]非JSON找到定义W:16
+INFO 2019-05-26 13:29:26:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DEF where FUNCNO=20
+INFO 2019-05-26 13:29:26:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DETAIL where FUNCNO=20 and FIELDNAME <> '***' order by ord
+INFO 2019-05-26 13:29:26:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select dispexp from  WF_CAR.User_Display_Set where funcno=20 and userid='ws'
+INFO 2019-05-26 13:29:26:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[8ms]非JSON找到定义Q:20
+INFO 2019-05-26 13:29:26:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select ul.userid,ul.logdetails,ul.logtime,ul.logremark from userlog ul where (1=1   ))
+INFO 2019-05-26 13:29:26:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by ul.logtime DESC ) rn,ul.userid,ul.logdetails,ul.logtime,ul.logremark from userlog ul where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:29:26:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>[6ms]20:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by ul.logtime DESC ) rn,ul.userid,ul.logdetails,ul.logtime,ul.logremark from userlog ul where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:29:29:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ))
+INFO 2019-05-26 13:29:29:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:29:29:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>[3ms]2:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:33:49:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select sur.roleid, sur.userid, sr.rolename  from   WF_CAR.sys_user_role sur,   WF_CAR.sys_role sr where trim(sr.roleid) = trim(sur.roleid)   and trim(sur.userid) = 'ws' order by ROLEID
+INFO 2019-05-26 13:33:49:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):SELECT * FROM (SELECT DISTINCT 'WF_CAR' SYS_PROJECTID, D.NODEID, D.LEAF, D.PARENT_NODEID, D.NODENAME,D.WINNO SYS_WINNO,D.LEVELID,decode(D.NODEICO,null,' ',D.NODEICO) NODEICO,D.BINDING_DATA FROM  WF_CAR.SYS_MENU_NODE D, (SELECT NODEID FROM  WF_CAR.SYS_ROLE_MENU A WHERE  A.ROLEID IN ('')) C, WF_CAR.SYS_MENU_PARENTS E WHERE E.NODEID=C.NODEID AND D.NODEID=E.PARENT_NODEID) ORDER BY LEVELID
+INFO 2019-05-26 13:33:49:
+WFINFO>>表WF_CAR.SYS_USER_SYSTEM_FUNC没有找到。
+INFO 2019-05-26 13:33:49:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select sur.roleid, sur.userid, sr.rolename  from   WF_CAR.sys_user_role sur,   WF_CAR.sys_role sr where trim(sr.roleid) = trim(sur.roleid)   and trim(sur.userid) = 'ws' order by ROLEID
+INFO 2019-05-26 13:33:49:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select sur.roleid, sur.userid, sr.rolename  from   WF_CAR.sys_user_role sur,   WF_CAR.sys_role sr where trim(sr.roleid) = trim(sur.roleid)   and trim(sur.userid) = 'ws' order by ROLEID
+INFO 2019-05-26 13:33:49:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.sys_role_table where roleid = '0'
+INFO 2019-05-26 13:33:49:
+WFINFO>>角色0有0个角色行条件被加载
+INFO 2019-05-26 13:33:49:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):SELECT * FROM (SELECT DISTINCT 'WF_CAR' SYS_PROJECTID, D.NODEID, D.LEAF, D.PARENT_NODEID, D.NODENAME,D.WINNO SYS_WINNO,D.LEVELID,decode(D.NODEICO,null,' ',D.NODEICO) NODEICO,D.BINDING_DATA FROM  WF_CAR.SYS_MENU_NODE D, (SELECT NODEID FROM  WF_CAR.SYS_ROLE_MENU A WHERE  A.ROLEID IN ('0')) C, WF_CAR.SYS_MENU_PARENTS E WHERE E.NODEID=C.NODEID AND D.NODEID=E.PARENT_NODEID) ORDER BY LEVELID
+INFO 2019-05-26 13:33:49:
+WFINFO>>表WF_CAR.SYS_USER_SYSTEM_FUNC没有找到。
+INFO 2019-05-26 13:33:49:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select 'WF_CAR:' || m.winno || ':' || rtrim(m.nodename) from  WF_CAR.sys_role_menu rm, WF_CAR.sys_menu_node m where  rm.nodeid = m.nodeid and rm.roleid in ('0') and rm.isdefault = 'Y'
+INFO 2019-05-26 13:33:49:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select attach_wins from  WF_CAR.SYS_WINDOW_DEF where winno = 2
+INFO 2019-05-26 13:33:49:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_WINDOW_DEF where winno  = 2
+INFO 2019-05-26 13:33:49:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[6ms]非JSON找到定义W:2
+INFO 2019-05-26 13:33:49:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DEF where FUNCNO=2
+INFO 2019-05-26 13:33:49:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DETAIL where FUNCNO=2 and FIELDNAME <> '***' order by ord
+INFO 2019-05-26 13:33:49:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select dispexp from  WF_CAR.User_Display_Set where funcno=2 and userid='ws'
+INFO 2019-05-26 13:33:49:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[11ms]非JSON找到定义Q:2
+INFO 2019-05-26 13:33:49:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ))
+INFO 2019-05-26 13:33:49:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:33:49:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>[3ms]2:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:33:51:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ))
+INFO 2019-05-26 13:33:51:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:33:51:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>[3ms]2:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:33:54:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>***CMD={check_func:"escape",proc0:"car_delete",data0:[{name:"MultiRows",value:"ssww",type:"CHAR"},{name:"MultiCount",value:"1",type:"NUMBER"}],wfName:"", wfAct:"", wfNodeId:"", wfState:"", wfUniKey:"", wfVars:"", wfKeyVal:"", wfComment:"", wfCollab:""}
+INFO 2019-05-26 13:33:54:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>调用过程函数 {call car_delete(?,?,?)}
+参数列表	参数名: 值  --  类型
+	MultiRows: ssww --  CHAR
+	MultiCount: 1 --  NUMBER
+
+INFO 2019-05-26 13:33:54:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ))
+INFO 2019-05-26 13:33:54:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:33:54:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>[4ms]2:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:33:56:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select sur.roleid, sur.userid, sr.rolename  from   WF_CAR.sys_user_role sur,   WF_CAR.sys_role sr where trim(sr.roleid) = trim(sur.roleid)   and trim(sur.userid) = 'ws' order by ROLEID
+INFO 2019-05-26 13:33:56:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):SELECT * FROM (SELECT DISTINCT 'WF_CAR' SYS_PROJECTID, D.NODEID, D.LEAF, D.PARENT_NODEID, D.NODENAME,D.WINNO SYS_WINNO,D.LEVELID,decode(D.NODEICO,null,' ',D.NODEICO) NODEICO,D.BINDING_DATA FROM  WF_CAR.SYS_MENU_NODE D, (SELECT NODEID FROM  WF_CAR.SYS_ROLE_MENU A WHERE  A.ROLEID IN ('')) C, WF_CAR.SYS_MENU_PARENTS E WHERE E.NODEID=C.NODEID AND D.NODEID=E.PARENT_NODEID) ORDER BY LEVELID
+INFO 2019-05-26 13:33:56:
+WFINFO>>表WF_CAR.SYS_USER_SYSTEM_FUNC没有找到。
+INFO 2019-05-26 13:33:56:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select sur.roleid, sur.userid, sr.rolename  from   WF_CAR.sys_user_role sur,   WF_CAR.sys_role sr where trim(sr.roleid) = trim(sur.roleid)   and trim(sur.userid) = 'ws' order by ROLEID
+INFO 2019-05-26 13:33:56:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select sur.roleid, sur.userid, sr.rolename  from   WF_CAR.sys_user_role sur,   WF_CAR.sys_role sr where trim(sr.roleid) = trim(sur.roleid)   and trim(sur.userid) = 'ws' order by ROLEID
+INFO 2019-05-26 13:33:56:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.sys_role_table where roleid = '0'
+INFO 2019-05-26 13:33:56:
+WFINFO>>角色0有0个角色行条件被加载
+INFO 2019-05-26 13:33:56:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):SELECT * FROM (SELECT DISTINCT 'WF_CAR' SYS_PROJECTID, D.NODEID, D.LEAF, D.PARENT_NODEID, D.NODENAME,D.WINNO SYS_WINNO,D.LEVELID,decode(D.NODEICO,null,' ',D.NODEICO) NODEICO,D.BINDING_DATA FROM  WF_CAR.SYS_MENU_NODE D, (SELECT NODEID FROM  WF_CAR.SYS_ROLE_MENU A WHERE  A.ROLEID IN ('0')) C, WF_CAR.SYS_MENU_PARENTS E WHERE E.NODEID=C.NODEID AND D.NODEID=E.PARENT_NODEID) ORDER BY LEVELID
+INFO 2019-05-26 13:33:56:
+WFINFO>>表WF_CAR.SYS_USER_SYSTEM_FUNC没有找到。
+INFO 2019-05-26 13:33:56:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select 'WF_CAR:' || m.winno || ':' || rtrim(m.nodename) from  WF_CAR.sys_role_menu rm, WF_CAR.sys_menu_node m where  rm.nodeid = m.nodeid and rm.roleid in ('0') and rm.isdefault = 'Y'
+INFO 2019-05-26 13:33:56:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select attach_wins from  WF_CAR.SYS_WINDOW_DEF where winno = 2
+INFO 2019-05-26 13:33:56:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_WINDOW_DEF where winno  = 2
+INFO 2019-05-26 13:33:56:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[3ms]非JSON找到定义W:2
+INFO 2019-05-26 13:33:56:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DEF where FUNCNO=2
+INFO 2019-05-26 13:33:56:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_QUERY_DETAIL where FUNCNO=2 and FIELDNAME <> '***' order by ord
+INFO 2019-05-26 13:33:56:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select dispexp from  WF_CAR.User_Display_Set where funcno=2 and userid='ws'
+INFO 2019-05-26 13:33:56:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[9ms]非JSON找到定义Q:2
+INFO 2019-05-26 13:33:56:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ))
+INFO 2019-05-26 13:33:56:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:33:56:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>[6ms]2:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:33:58:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ))
+INFO 2019-05-26 13:33:58:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:33:58:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>[6ms]2:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:34:01:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>***CMD={check_func:"escape",proc0:"car_delete",data0:[{name:"MultiRows",value:"ssww;ss",type:"CHAR"},{name:"MultiCount",value:"2",type:"NUMBER"}],wfName:"", wfAct:"", wfNodeId:"", wfState:"", wfUniKey:"", wfVars:"", wfKeyVal:"", wfComment:"", wfCollab:""}
+INFO 2019-05-26 13:34:01:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>调用过程函数 {call car_delete(?,?,?)}
+参数列表	参数名: 值  --  类型
+	MultiRows: ssww;ss --  CHAR
+	MultiCount: 2 --  NUMBER
+
+INFO 2019-05-26 13:34:02:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ))
+INFO 2019-05-26 13:34:02:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:34:02:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>[3ms]2:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:34:16:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select attach_wins from  WF_CAR.SYS_WINDOW_DEF where winno = 6
+INFO 2019-05-26 13:34:16:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_WINDOW_DEF where winno  = 6
+INFO 2019-05-26 13:34:16:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[4ms]非JSON找到定义W:6
+INFO 2019-05-26 13:34:16:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_FORM_DEF where FUNCNO=8
+INFO 2019-05-26 13:34:16:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_CAR.SYS_FORM_DETAIL where FUNCNO=8 order by ord
+INFO 2019-05-26 13:34:16:
+WFDEBUG>>*>>WF_CAR>>NOSESSN>>NOSESSN>>[6ms]非JSON找到定义F:8
+INFO 2019-05-26 13:34:16:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select sql from WF_CAR.sys_bind_sql where sqlid='74cdd9b4bde78e9856bdf84e3c53354d'
+INFO 2019-05-26 13:34:16:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlObjArray):select userid key,userid from userinfo
+INFO 2019-05-26 13:34:16:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>[1ms]后台列表绑定完成。SQL:select userid key,userid from userinfo
+INFO 2019-05-26 13:34:26:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>***CMD={check_func:"escape",proc0:"car_insert",data0:[{name:"c.userid",value:"fxr",type:"CHAR"},{name:"c.registime",value:"2019-05-26",type:"DATE"},{name:"c.checktime",value:"2019-05-26",type:"DATE"},{name:"c.cartype",value:"ss",type:"CHAR"},{name:"c.carper",value:"sss",type:"CHAR"},{name:"c.carmodel",value:"ss",type:"CHAR"},{name:"c.carid",value:"sss",type:"CHAR"},{name:"c.carbrand",value:"sss",type:"CHAR"},{name:"userinfo.userid",value:"ws",type:"CHAR"}],wfName:"", wfAct:"", wfNodeId:"", wfState:"", wfUniKey:"", wfVars:"", wfKeyVal:"", wfComment:"", wfCollab:""}
+INFO 2019-05-26 13:34:26:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>调用过程函数 {call car_insert(?,?,?,?,?,?,?,?,?,?)}
+参数列表	参数名: 值  --  类型
+	c.userid: fxr --  CHAR
+	c.registime: 2019-05-26 --  DATE
+	c.checktime: 2019-05-26 --  DATE
+	c.cartype: ss --  CHAR
+	c.carper: sss --  CHAR
+	c.carmodel: ss --  CHAR
+	c.carid: sss --  CHAR
+	c.carbrand: sss --  CHAR
+	userinfo.userid: ws --  CHAR
+
+INFO 2019-05-26 13:34:26:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ))
+INFO 2019-05-26 13:34:26:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:34:26:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>[4ms]2:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:34:27:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select sql from WF_CAR.sys_bind_sql where sqlid='74cdd9b4bde78e9856bdf84e3c53354d'
+INFO 2019-05-26 13:34:27:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlObjArray):select userid key,userid from userinfo
+INFO 2019-05-26 13:34:27:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>[1ms]后台列表绑定完成。SQL:select userid key,userid from userinfo
+INFO 2019-05-26 13:34:40:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>***CMD={check_func:"escape",proc0:"car_insert",data0:[{name:"c.userid",value:"ws",type:"CHAR"},{name:"c.registime",value:"2019-05-26",type:"DATE"},{name:"c.checktime",value:"2019-05-27",type:"DATE"},{name:"c.cartype",value:"dsds",type:"CHAR"},{name:"c.carper",value:"dsds",type:"CHAR"},{name:"c.carmodel",value:"dsd",type:"CHAR"},{name:"c.carid",value:"ssdd",type:"CHAR"},{name:"c.carbrand",value:"sada",type:"CHAR"},{name:"userinfo.userid",value:"ws",type:"CHAR"}],wfName:"", wfAct:"", wfNodeId:"", wfState:"", wfUniKey:"", wfVars:"", wfKeyVal:"", wfComment:"", wfCollab:""}
+INFO 2019-05-26 13:34:40:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>调用过程函数 {call car_insert(?,?,?,?,?,?,?,?,?,?)}
+参数列表	参数名: 值  --  类型
+	c.userid: ws --  CHAR
+	c.registime: 2019-05-26 --  DATE
+	c.checktime: 2019-05-27 --  DATE
+	c.cartype: dsds --  CHAR
+	c.carper: dsds --  CHAR
+	c.carmodel: dsd --  CHAR
+	c.carid: ssdd --  CHAR
+	c.carbrand: sada --  CHAR
+	userinfo.userid: ws --  CHAR
+
+INFO 2019-05-26 13:34:40:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ))
+INFO 2019-05-26 13:34:40:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:34:40:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>[5ms]2:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:34:42:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select sql from WF_CAR.sys_bind_sql where sqlid='74cdd9b4bde78e9856bdf84e3c53354d'
+INFO 2019-05-26 13:34:42:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlObjArray):select userid key,userid from userinfo
+INFO 2019-05-26 13:34:42:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>[2ms]后台列表绑定完成。SQL:select userid key,userid from userinfo
+INFO 2019-05-26 13:34:47:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>***CMD={check_func:"escape",proc0:"car_delete",data0:[{name:"MultiRows",value:"sss;ssww;ssdd",type:"CHAR"},{name:"MultiCount",value:"3",type:"NUMBER"}],wfName:"", wfAct:"", wfNodeId:"", wfState:"", wfUniKey:"", wfVars:"", wfKeyVal:"", wfComment:"", wfCollab:""}
+INFO 2019-05-26 13:34:47:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>调用过程函数 {call car_delete(?,?,?)}
+参数列表	参数名: 值  --  类型
+	MultiRows: sss;ssww;ssdd --  CHAR
+	MultiCount: 3 --  NUMBER
+
+INFO 2019-05-26 13:34:47:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ))
+INFO 2019-05-26 13:34:47:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:34:47:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>[4ms]2:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:35:17:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select sql from WF_CAR.sys_bind_sql where sqlid='74cdd9b4bde78e9856bdf84e3c53354d'
+INFO 2019-05-26 13:35:17:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlObjArray):select userid key,userid from userinfo
+INFO 2019-05-26 13:35:17:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>[1ms]后台列表绑定完成。SQL:select userid key,userid from userinfo
+INFO 2019-05-26 13:35:28:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>***CMD={check_func:"escape",proc0:"car_insert",data0:[{name:"c.userid",value:"fxr",type:"CHAR"},{name:"c.registime",value:"2019-05-26",type:"DATE"},{name:"c.checktime",value:"2019-05-26",type:"DATE"},{name:"c.cartype",value:"dsd",type:"CHAR"},{name:"c.carper",value:"sdsd",type:"CHAR"},{name:"c.carmodel",value:"sds",type:"CHAR"},{name:"c.carid",value:"dssds",type:"CHAR"},{name:"c.carbrand",value:"dsds",type:"CHAR"},{name:"userinfo.userid",value:"ws",type:"CHAR"}],wfName:"", wfAct:"", wfNodeId:"", wfState:"", wfUniKey:"", wfVars:"", wfKeyVal:"", wfComment:"", wfCollab:""}
+INFO 2019-05-26 13:35:28:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>调用过程函数 {call car_insert(?,?,?,?,?,?,?,?,?,?)}
+参数列表	参数名: 值  --  类型
+	c.userid: fxr --  CHAR
+	c.registime: 2019-05-26 --  DATE
+	c.checktime: 2019-05-26 --  DATE
+	c.cartype: dsd --  CHAR
+	c.carper: sdsd --  CHAR
+	c.carmodel: sds --  CHAR
+	c.carid: dssds --  CHAR
+	c.carbrand: dsds --  CHAR
+	userinfo.userid: ws --  CHAR
+
+INFO 2019-05-26 13:35:28:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ))
+INFO 2019-05-26 13:35:28:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:35:28:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>[3ms]2:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:35:33:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>***CMD={check_func:"escape",proc0:"car_delete",data0:[{name:"MultiRows",value:"dssds;sss",type:"CHAR"},{name:"MultiCount",value:"2",type:"NUMBER"}],wfName:"", wfAct:"", wfNodeId:"", wfState:"", wfUniKey:"", wfVars:"", wfKeyVal:"", wfComment:"", wfCollab:""}
+INFO 2019-05-26 13:35:33:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>调用过程函数 {call car_delete(?,?,?)}
+参数列表	参数名: 值  --  类型
+	MultiRows: dssds;sss --  CHAR
+	MultiCount: 2 --  NUMBER
+
+INFO 2019-05-26 13:35:33:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ))
+INFO 2019-05-26 13:35:33:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:35:33:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>[4ms]2:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:35:40:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select sql from WF_CAR.sys_bind_sql where sqlid='74cdd9b4bde78e9856bdf84e3c53354d'
+INFO 2019-05-26 13:35:40:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlObjArray):select userid key,userid from userinfo
+INFO 2019-05-26 13:35:40:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>[1ms]后台列表绑定完成。SQL:select userid key,userid from userinfo
+INFO 2019-05-26 13:35:51:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>***CMD={check_func:"escape",proc0:"car_insert",data0:[{name:"c.userid",value:"ws",type:"CHAR"},{name:"c.registime",value:"2019-05-26",type:"DATE"},{name:"c.checktime",value:"2019-05-26",type:"DATE"},{name:"c.cartype",value:"dsd",type:"CHAR"},{name:"c.carper",value:"dsds",type:"CHAR"},{name:"c.carmodel",value:"sds",type:"CHAR"},{name:"c.carid",value:"sdsd",type:"CHAR"},{name:"c.carbrand",value:"dsds",type:"CHAR"},{name:"userinfo.userid",value:"ws",type:"CHAR"}],wfName:"", wfAct:"", wfNodeId:"", wfState:"", wfUniKey:"", wfVars:"", wfKeyVal:"", wfComment:"", wfCollab:""}
+INFO 2019-05-26 13:35:51:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>调用过程函数 {call car_insert(?,?,?,?,?,?,?,?,?,?)}
+参数列表	参数名: 值  --  类型
+	c.userid: ws --  CHAR
+	c.registime: 2019-05-26 --  DATE
+	c.checktime: 2019-05-26 --  DATE
+	c.cartype: dsd --  CHAR
+	c.carper: dsds --  CHAR
+	c.carmodel: sds --  CHAR
+	c.carid: sdsd --  CHAR
+	c.carbrand: dsds --  CHAR
+	userinfo.userid: ws --  CHAR
+
+INFO 2019-05-26 13:35:51:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ))
+INFO 2019-05-26 13:35:51:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:35:51:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>[5ms]2:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:35:55:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>***CMD={check_func:"escape",proc0:"car_delete",data0:[{name:"MultiRows",value:"sdsd",type:"CHAR"},{name:"MultiCount",value:"1",type:"NUMBER"}],wfName:"", wfAct:"", wfNodeId:"", wfState:"", wfUniKey:"", wfVars:"", wfKeyVal:"", wfComment:"", wfCollab:""}
+INFO 2019-05-26 13:35:55:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>调用过程函数 {call car_delete(?,?,?)}
+参数列表	参数名: 值  --  类型
+	MultiRows: sdsd --  CHAR
+	MultiCount: 1 --  NUMBER
+
+INFO 2019-05-26 13:35:55:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ))
+INFO 2019-05-26 13:35:55:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:35:55:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>[4ms]2:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:54:57:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select sql from WF_CAR.sys_bind_sql where sqlid='74cdd9b4bde78e9856bdf84e3c53354d'
+INFO 2019-05-26 13:54:57:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlObjArray):select userid key,userid from userinfo
+INFO 2019-05-26 13:54:57:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>[1ms]后台列表绑定完成。SQL:select userid key,userid from userinfo
+INFO 2019-05-26 13:55:07:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>***CMD={check_func:"escape",proc0:"car_insert",data0:[{name:"c.userid",value:"fxr",type:"CHAR"},{name:"c.registime",value:"2019-05-26",type:"DATE"},{name:"c.checktime",value:"2019-05-26",type:"DATE"},{name:"c.cartype",value:"dsd",type:"CHAR"},{name:"c.carper",value:"dsd",type:"CHAR"},{name:"c.carmodel",value:"dsd",type:"CHAR"},{name:"c.carid",value:"dsd",type:"CHAR"},{name:"c.carbrand",value:"dsd",type:"CHAR"},{name:"userinfo.userid",value:"ws",type:"CHAR"}],wfName:"", wfAct:"", wfNodeId:"", wfState:"", wfUniKey:"", wfVars:"", wfKeyVal:"", wfComment:"", wfCollab:""}
+INFO 2019-05-26 13:55:07:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>调用过程函数 {call car_insert(?,?,?,?,?,?,?,?,?,?)}
+参数列表	参数名: 值  --  类型
+	c.userid: fxr --  CHAR
+	c.registime: 2019-05-26 --  DATE
+	c.checktime: 2019-05-26 --  DATE
+	c.cartype: dsd --  CHAR
+	c.carper: dsd --  CHAR
+	c.carmodel: dsd --  CHAR
+	c.carid: dsd --  CHAR
+	c.carbrand: dsd --  CHAR
+	userinfo.userid: ws --  CHAR
+
+INFO 2019-05-26 13:55:07:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select count(*)  from ( select c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ))
+INFO 2019-05-26 13:55:07:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:55:07:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>[4ms]2:Q查询完成。PagedSQL:select * from ( select  row_number() over(order by rownum asc) rn,c.carid,c.userid,c.carbrand,c.carmodel,c.carper,c.cartype,c.registime,c.checktime from car c where (1=1   ) )  where rn between 1 and 20
+INFO 2019-05-26 13:55:10:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>***CMD={check_func:"escape",proc0:"car_delete",data0:[{name:"MultiRows",value:"dsd",type:"CHAR"},{name:"MultiCount",value:"1",type:"NUMBER"}],wfName:"", wfAct:"", wfNodeId:"", wfState:"", wfUniKey:"", wfVars:"", wfKeyVal:"", wfComment:"", wfCollab:""}
+INFO 2019-05-26 13:55:10:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>调用过程函数 {call car_delete(?,?,?)}
+参数列表	参数名: 值  --  类型
+	MultiRows: dsd --  CHAR
+	MultiCount: 1 --  NUMBER
+
+INFO 2019-05-26 13:55:10:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>调用过程函数 car_delete
+参数列表	参数名: 值  --  类型
+	MultiRows: dsd --  CHAR
+	MultiCount: 1 --  NUMBER
+
+INFO 2019-05-26 13:55:19:
+WFDEBUG>>*>>WF_CAR>>ws>>01812755ED82B72298E3C4AFB8A7DC82>>***CMD={check_func:"escape",proc0:"car_delete",data0:[{name:"MultiRows",value:"dsd;sw",type:"CHAR"},{name:"MultiCount",value:"2",type:"NUMBER"}],wfName:"", wfAct:"", wfNodeId:"", wfState:"", wfUniKey:"", wfVars:"", wfKeyVal:"", wfComment:"", wfCollab:""}
+INFO 2019-05-26 13:55:19:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>调用过程函数 {call car_delete(?,?,?)}
+参数列表	参数名: 值  --  类型
+	MultiRows: dsd;sw --  CHAR
+	MultiCount: 2 --  NUMBER
+
+INFO 2019-05-26 13:55:19:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>调用过程函数 car_delete
+参数列表	参数名: 值  --  类型
+	MultiRows: dsd;sw --  CHAR
+	MultiCount: 2 --  NUMBER
+

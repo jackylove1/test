@@ -1,0 +1,216 @@
+INFO 2019-05-21 08:59:14:
+Parsing configuration file [struts-default.xml]
+INFO 2019-05-21 08:59:14:
+Parsing configuration file [struts-plugin.xml]
+INFO 2019-05-21 08:59:14:
+Parsing configuration file [struts.xml]
+INFO 2019-05-21 08:59:14:
+Choosing bean (struts) for (com.opensymphony.xwork2.ObjectFactory)
+INFO 2019-05-21 08:59:14:
+Choosing bean (struts) for (com.opensymphony.xwork2.factory.ActionFactory)
+INFO 2019-05-21 08:59:14:
+Choosing bean (struts) for (com.opensymphony.xwork2.factory.ResultFactory)
+INFO 2019-05-21 08:59:14:
+Choosing bean (struts) for (com.opensymphony.xwork2.factory.ConverterFactory)
+INFO 2019-05-21 08:59:14:
+Choosing bean (struts) for (com.opensymphony.xwork2.factory.InterceptorFactory)
+INFO 2019-05-21 08:59:14:
+Choosing bean (struts) for (com.opensymphony.xwork2.factory.ValidatorFactory)
+INFO 2019-05-21 08:59:14:
+Choosing bean (struts) for (com.opensymphony.xwork2.factory.UnknownHandlerFactory)
+INFO 2019-05-21 08:59:14:
+Choosing bean (struts) for (com.opensymphony.xwork2.FileManagerFactory)
+INFO 2019-05-21 08:59:14:
+Choosing bean (struts) for (com.opensymphony.xwork2.conversion.impl.XWorkConverter)
+INFO 2019-05-21 08:59:14:
+Choosing bean (struts) for (com.opensymphony.xwork2.conversion.impl.CollectionConverter)
+INFO 2019-05-21 08:59:14:
+Choosing bean (struts) for (com.opensymphony.xwork2.conversion.impl.ArrayConverter)
+INFO 2019-05-21 08:59:14:
+Choosing bean (struts) for (com.opensymphony.xwork2.conversion.impl.DateConverter)
+INFO 2019-05-21 08:59:14:
+Choosing bean (struts) for (com.opensymphony.xwork2.conversion.impl.NumberConverter)
+INFO 2019-05-21 08:59:14:
+Choosing bean (struts) for (com.opensymphony.xwork2.conversion.impl.StringConverter)
+INFO 2019-05-21 08:59:14:
+Choosing bean (struts) for (com.opensymphony.xwork2.conversion.ConversionPropertiesProcessor)
+INFO 2019-05-21 08:59:14:
+Choosing bean (struts) for (com.opensymphony.xwork2.conversion.ConversionFileProcessor)
+INFO 2019-05-21 08:59:14:
+Choosing bean (struts) for (com.opensymphony.xwork2.conversion.ConversionAnnotationProcessor)
+INFO 2019-05-21 08:59:14:
+Choosing bean (struts) for (com.opensymphony.xwork2.conversion.TypeConverterCreator)
+INFO 2019-05-21 08:59:14:
+Choosing bean (struts) for (com.opensymphony.xwork2.conversion.TypeConverterHolder)
+INFO 2019-05-21 08:59:14:
+Choosing bean (struts) for (com.opensymphony.xwork2.TextProvider)
+INFO 2019-05-21 08:59:14:
+Choosing bean (struts) for (com.opensymphony.xwork2.LocaleProvider)
+INFO 2019-05-21 08:59:14:
+Choosing bean (struts) for (com.opensymphony.xwork2.ActionProxyFactory)
+INFO 2019-05-21 08:59:14:
+Choosing bean (struts) for (com.opensymphony.xwork2.conversion.ObjectTypeDeterminer)
+INFO 2019-05-21 08:59:14:
+Choosing bean (struts) for (org.apache.struts2.dispatcher.mapper.ActionMapper)
+INFO 2019-05-21 08:59:14:
+Choosing bean (jakarta) for (org.apache.struts2.dispatcher.multipart.MultiPartRequest)
+INFO 2019-05-21 08:59:14:
+Choosing bean (struts) for (org.apache.struts2.views.freemarker.FreemarkerManager)
+INFO 2019-05-21 08:59:14:
+Choosing bean (struts) for (org.apache.struts2.components.UrlRenderer)
+INFO 2019-05-21 08:59:14:
+Choosing bean (struts) for (com.opensymphony.xwork2.validator.ActionValidatorManager)
+INFO 2019-05-21 08:59:14:
+Choosing bean (struts) for (com.opensymphony.xwork2.util.ValueStackFactory)
+INFO 2019-05-21 08:59:14:
+Choosing bean (struts) for (com.opensymphony.xwork2.util.reflection.ReflectionProvider)
+INFO 2019-05-21 08:59:14:
+Choosing bean (struts) for (com.opensymphony.xwork2.util.reflection.ReflectionContextFactory)
+INFO 2019-05-21 08:59:14:
+Choosing bean (struts) for (com.opensymphony.xwork2.util.PatternMatcher)
+INFO 2019-05-21 08:59:14:
+Choosing bean (struts) for (org.apache.struts2.util.ContentTypeMatcher)
+INFO 2019-05-21 08:59:14:
+Choosing bean (struts) for (org.apache.struts2.dispatcher.StaticContentLoader)
+INFO 2019-05-21 08:59:14:
+Choosing bean (struts) for (com.opensymphony.xwork2.UnknownHandlerManager)
+INFO 2019-05-21 08:59:14:
+Choosing bean (struts) for (org.apache.struts2.views.util.UrlHelper)
+INFO 2019-05-21 08:59:14:
+Choosing bean (struts) for (com.opensymphony.xwork2.util.TextParser)
+INFO 2019-05-21 08:59:14:
+Choosing bean (struts) for (org.apache.struts2.dispatcher.DispatcherErrorHandler)
+INFO 2019-05-21 08:59:14:
+Choosing bean (struts) for (com.opensymphony.xwork2.security.ExcludedPatternsChecker)
+INFO 2019-05-21 08:59:14:
+Choosing bean (struts) for (com.opensymphony.xwork2.security.AcceptedPatternsChecker)
+INFO 2019-05-21 08:59:14:
+系统初始化中...v4.20170616B
+INFO 2019-05-21 08:59:14:
+项目ID:WF_DEMO---项目名称:demo---启动模式:local
+INFO 2019-05-21 08:59:14:
+配置库  wf_tianyi链接池创建成功!
+INFO 2019-05-21 08:59:14:
+业务库DEMO链接池创建成功!
+INFO 2019-05-21 08:59:14:
+ftpz FTP服务器 127.0.0.1:21 配置完毕.
+INFO 2019-05-21 08:59:14:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_DEMO.SYS_CUSTOM_DEF where FUNCNO=0
+INFO 2019-05-21 08:59:15:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_DEMO.SYS_CUSTOM_DETAIL where FUNCNO=0
+INFO 2019-05-21 08:59:15:
+本系统未定义初始化环境变量.
+INFO 2019-05-21 08:59:15:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select wm_concat(distinct trim(func_type)) from WF_DEMO.sys_window_def
+INFO 2019-05-21 08:59:15:
+WFINFO>>窗口类型(db)：[{"type":"","detail":""}]
+INFO 2019-05-21 08:59:15:
+系统启动成功！ 
+INFO 2019-05-21 09:00:05:
+Parsing configuration file [struts-default.xml]
+INFO 2019-05-21 09:00:05:
+Parsing configuration file [struts-plugin.xml]
+INFO 2019-05-21 09:00:05:
+Parsing configuration file [struts.xml]
+INFO 2019-05-21 09:00:05:
+Choosing bean (struts) for (com.opensymphony.xwork2.ObjectFactory)
+INFO 2019-05-21 09:00:05:
+Choosing bean (struts) for (com.opensymphony.xwork2.factory.ActionFactory)
+INFO 2019-05-21 09:00:05:
+Choosing bean (struts) for (com.opensymphony.xwork2.factory.ResultFactory)
+INFO 2019-05-21 09:00:05:
+Choosing bean (struts) for (com.opensymphony.xwork2.factory.ConverterFactory)
+INFO 2019-05-21 09:00:05:
+Choosing bean (struts) for (com.opensymphony.xwork2.factory.InterceptorFactory)
+INFO 2019-05-21 09:00:05:
+Choosing bean (struts) for (com.opensymphony.xwork2.factory.ValidatorFactory)
+INFO 2019-05-21 09:00:05:
+Choosing bean (struts) for (com.opensymphony.xwork2.factory.UnknownHandlerFactory)
+INFO 2019-05-21 09:00:05:
+Choosing bean (struts) for (com.opensymphony.xwork2.FileManagerFactory)
+INFO 2019-05-21 09:00:05:
+Choosing bean (struts) for (com.opensymphony.xwork2.conversion.impl.XWorkConverter)
+INFO 2019-05-21 09:00:05:
+Choosing bean (struts) for (com.opensymphony.xwork2.conversion.impl.CollectionConverter)
+INFO 2019-05-21 09:00:05:
+Choosing bean (struts) for (com.opensymphony.xwork2.conversion.impl.ArrayConverter)
+INFO 2019-05-21 09:00:05:
+Choosing bean (struts) for (com.opensymphony.xwork2.conversion.impl.DateConverter)
+INFO 2019-05-21 09:00:05:
+Choosing bean (struts) for (com.opensymphony.xwork2.conversion.impl.NumberConverter)
+INFO 2019-05-21 09:00:05:
+Choosing bean (struts) for (com.opensymphony.xwork2.conversion.impl.StringConverter)
+INFO 2019-05-21 09:00:05:
+Choosing bean (struts) for (com.opensymphony.xwork2.conversion.ConversionPropertiesProcessor)
+INFO 2019-05-21 09:00:05:
+Choosing bean (struts) for (com.opensymphony.xwork2.conversion.ConversionFileProcessor)
+INFO 2019-05-21 09:00:05:
+Choosing bean (struts) for (com.opensymphony.xwork2.conversion.ConversionAnnotationProcessor)
+INFO 2019-05-21 09:00:05:
+Choosing bean (struts) for (com.opensymphony.xwork2.conversion.TypeConverterCreator)
+INFO 2019-05-21 09:00:05:
+Choosing bean (struts) for (com.opensymphony.xwork2.conversion.TypeConverterHolder)
+INFO 2019-05-21 09:00:05:
+Choosing bean (struts) for (com.opensymphony.xwork2.TextProvider)
+INFO 2019-05-21 09:00:05:
+Choosing bean (struts) for (com.opensymphony.xwork2.LocaleProvider)
+INFO 2019-05-21 09:00:05:
+Choosing bean (struts) for (com.opensymphony.xwork2.ActionProxyFactory)
+INFO 2019-05-21 09:00:05:
+Choosing bean (struts) for (com.opensymphony.xwork2.conversion.ObjectTypeDeterminer)
+INFO 2019-05-21 09:00:05:
+Choosing bean (struts) for (org.apache.struts2.dispatcher.mapper.ActionMapper)
+INFO 2019-05-21 09:00:05:
+Choosing bean (jakarta) for (org.apache.struts2.dispatcher.multipart.MultiPartRequest)
+INFO 2019-05-21 09:00:05:
+Choosing bean (struts) for (org.apache.struts2.views.freemarker.FreemarkerManager)
+INFO 2019-05-21 09:00:05:
+Choosing bean (struts) for (org.apache.struts2.components.UrlRenderer)
+INFO 2019-05-21 09:00:05:
+Choosing bean (struts) for (com.opensymphony.xwork2.validator.ActionValidatorManager)
+INFO 2019-05-21 09:00:05:
+Choosing bean (struts) for (com.opensymphony.xwork2.util.ValueStackFactory)
+INFO 2019-05-21 09:00:05:
+Choosing bean (struts) for (com.opensymphony.xwork2.util.reflection.ReflectionProvider)
+INFO 2019-05-21 09:00:05:
+Choosing bean (struts) for (com.opensymphony.xwork2.util.reflection.ReflectionContextFactory)
+INFO 2019-05-21 09:00:05:
+Choosing bean (struts) for (com.opensymphony.xwork2.util.PatternMatcher)
+INFO 2019-05-21 09:00:05:
+Choosing bean (struts) for (org.apache.struts2.util.ContentTypeMatcher)
+INFO 2019-05-21 09:00:05:
+Choosing bean (struts) for (org.apache.struts2.dispatcher.StaticContentLoader)
+INFO 2019-05-21 09:00:05:
+Choosing bean (struts) for (com.opensymphony.xwork2.UnknownHandlerManager)
+INFO 2019-05-21 09:00:05:
+Choosing bean (struts) for (org.apache.struts2.views.util.UrlHelper)
+INFO 2019-05-21 09:00:05:
+Choosing bean (struts) for (com.opensymphony.xwork2.util.TextParser)
+INFO 2019-05-21 09:00:05:
+Choosing bean (struts) for (org.apache.struts2.dispatcher.DispatcherErrorHandler)
+INFO 2019-05-21 09:00:05:
+Choosing bean (struts) for (com.opensymphony.xwork2.security.ExcludedPatternsChecker)
+INFO 2019-05-21 09:00:05:
+Choosing bean (struts) for (com.opensymphony.xwork2.security.AcceptedPatternsChecker)
+INFO 2019-05-21 09:00:05:
+系统初始化中...v4.20170616B
+INFO 2019-05-21 09:00:05:
+项目ID:WF_DEMO---项目名称:demo---启动模式:local
+INFO 2019-05-21 09:00:05:
+配置库  wf_tianyi链接池创建成功!
+INFO 2019-05-21 09:00:05:
+业务库DEMO链接池创建成功!
+INFO 2019-05-21 09:00:05:
+ftpz FTP服务器 127.0.0.1:21 配置完毕.
+INFO 2019-05-21 09:00:05:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_DEMO.SYS_CUSTOM_DEF where FUNCNO=0
+INFO 2019-05-21 09:00:05:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeSqlHashMapArray):select * from  WF_DEMO.SYS_CUSTOM_DETAIL where FUNCNO=0
+INFO 2019-05-21 09:00:05:
+本系统未定义初始化环境变量.
+INFO 2019-05-21 09:00:05:
+WFDEBUG>>*>>*>>NOSESSN>>NOSESSN>>执行前的SQL(executeScalar):select wm_concat(distinct trim(func_type)) from WF_DEMO.sys_window_def
+INFO 2019-05-21 09:00:05:
+WFINFO>>窗口类型(db)：[{"type":"","detail":""}]
+INFO 2019-05-21 09:00:05:
+系统启动成功！ 

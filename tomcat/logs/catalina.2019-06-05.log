@@ -1,0 +1,92 @@
+05-Jun-2019 21:22:57.010 警告 [main] org.apache.catalina.startup.SetAllPropertiesRule.begin [SetAllPropertiesRule]{Server/Service/Connector} Setting property 'minProcessors' to '5' did not find a matching property.
+05-Jun-2019 21:22:57.020 警告 [main] org.apache.catalina.startup.SetAllPropertiesRule.begin [SetAllPropertiesRule]{Server/Service/Connector} Setting property 'maxProcessors' to '75' did not find a matching property.
+05-Jun-2019 21:22:57.026 警告 [main] org.apache.tomcat.util.net.SSLHostConfig.setProtocols The protocol [TLSv1.2] was added to the list of protocols on the SSLHostConfig named [_default_]. Check if a +/- prefix is missing.
+05-Jun-2019 21:22:57.104 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.37
+05-Jun-2019 21:22:57.108 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Dec 12 2018 12:07:02 UTC
+05-Jun-2019 21:22:57.109 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.37.0
+05-Jun-2019 21:22:57.111 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 8.1
+05-Jun-2019 21:22:57.114 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.3
+05-Jun-2019 21:22:57.115 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+05-Jun-2019 21:22:57.118 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.7.0_80\jre
+05-Jun-2019 21:22:57.121 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.7.0_80-b15
+05-Jun-2019 21:22:57.124 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+05-Jun-2019 21:22:57.128 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         F:\java\tomcat 8.5.37
+05-Jun-2019 21:22:57.130 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         F:\java\tomcat 8.5.37
+05-Jun-2019 21:22:57.132 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=F:\java\tomcat 8.5.37\conf\logging.properties
+05-Jun-2019 21:22:57.134 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+05-Jun-2019 21:22:57.136 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+05-Jun-2019 21:22:57.139 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+05-Jun-2019 21:22:57.141 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+05-Jun-2019 21:22:57.144 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=F:\java\tomcat 8.5.37
+05-Jun-2019 21:22:57.146 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=F:\java\tomcat 8.5.37
+05-Jun-2019 21:22:57.148 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=F:\java\tomcat 8.5.37\temp
+05-Jun-2019 21:22:57.151 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.7.0_80\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\app\song\product\11.2.0\dbhome_1\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;"C:\Program Files\Java\jdk1.7.0_80\bin;";"C:\Program Files\Java\jdk1.7.0_80\jre\bin;";C:\Users\song\AppData\Local\Microsoft\WindowsApps;;.]
+05-Jun-2019 21:22:57.289 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+05-Jun-2019 21:22:57.313 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+05-Jun-2019 21:22:57.359 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["https-jsse-nio-8443"]
+05-Jun-2019 21:22:58.040 严重 [main] org.apache.catalina.core.StandardService.initInternal Failed to initialize connector [Connector[HTTP/1.1-8443]]
+ org.apache.catalina.LifecycleException: Failed to initialize component [Connector[HTTP/1.1-8443]]
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:112)
+	at org.apache.catalina.core.StandardService.initInternal(StandardService.java:552)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:107)
+	at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:875)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:107)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:638)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:661)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:309)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:492)
+Caused by: org.apache.catalina.LifecycleException: Protocol handler initialization failed
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:995)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:107)
+	... 12 more
+Caused by: java.lang.IllegalArgumentException: \usr\local\tomcat\conf\server_keystore (系统找不到指定的路径。)
+	at org.apache.tomcat.util.net.AbstractJsseEndpoint.createSSLContext(AbstractJsseEndpoint.java:115)
+	at org.apache.tomcat.util.net.AbstractJsseEndpoint.initialiseSsl(AbstractJsseEndpoint.java:86)
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:244)
+	at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:1087)
+	at org.apache.tomcat.util.net.AbstractJsseEndpoint.init(AbstractJsseEndpoint.java:265)
+	at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:581)
+	at org.apache.coyote.http11.AbstractHttp11Protocol.init(AbstractHttp11Protocol.java:68)
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:993)
+	... 13 more
+Caused by: java.io.FileNotFoundException: \usr\local\tomcat\conf\server_keystore (系统找不到指定的路径。)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(FileInputStream.java:146)
+	at java.io.FileInputStream.<init>(FileInputStream.java:101)
+	at sun.net.www.protocol.file.FileURLConnection.connect(FileURLConnection.java:90)
+	at sun.net.www.protocol.file.FileURLConnection.getInputStream(FileURLConnection.java:188)
+	at org.apache.tomcat.util.file.ConfigFileLoader.getInputStream(ConfigFileLoader.java:89)
+	at org.apache.tomcat.util.net.SSLUtilBase.getStore(SSLUtilBase.java:159)
+	at org.apache.tomcat.util.net.SSLHostConfigCertificate.getCertificateKeystore(SSLHostConfigCertificate.java:204)
+	at org.apache.tomcat.util.net.jsse.JSSEUtil.getKeyManagers(JSSEUtil.java:203)
+	at org.apache.tomcat.util.net.AbstractJsseEndpoint.createSSLContext(AbstractJsseEndpoint.java:113)
+	... 20 more
+
+05-Jun-2019 21:22:58.062 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1409 ms
+05-Jun-2019 21:22:58.089 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+05-Jun-2019 21:22:58.091 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.37
+05-Jun-2019 21:22:58.102 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [F:\java\tomcat 8.5.37\conf\Catalina\localhost\WF_CAR.XML]
+05-Jun-2019 21:22:58.137 警告 [localhost-startStop-1] org.apache.catalina.startup.SetContextPropertiesRule.begin [SetContextPropertiesRule]{Context} Setting property 'debug' to '0' did not find a matching property.
+05-Jun-2019 21:23:00.056 警告 [localhost-startStop-1] org.apache.tomcat.dbcp.dbcp2.BasicDataSourceFactory.getObjectInstance Name = CAR Property maxActive is not used in DBCP2, use maxTotal instead. maxTotal default value is 8. You have set value of "100" for "maxActive" property, which is being ignored.
+05-Jun-2019 21:23:00.058 警告 [localhost-startStop-1] org.apache.tomcat.dbcp.dbcp2.BasicDataSourceFactory.getObjectInstance Name = CAR Property removeAbandoned is not used in DBCP2, use one or both of removeAbandonedOnBorrow or removeAbandonedOnMaintenance instead. Both have default value set to false. You have set value of "true" for "removeAbandoned" property, which is being ignored.
+05-Jun-2019 21:23:00.061 警告 [localhost-startStop-1] org.apache.tomcat.dbcp.dbcp2.BasicDataSourceFactory.getObjectInstance Name = CAR Property maxWait is not used in DBCP2 , use maxWaitMillis instead. maxWaitMillis default value is -1. You have set value of "10000" for "maxWait" property, which is being ignored.
+05-Jun-2019 21:23:00.066 信息 [localhost-startStop-1] org.apache.tomcat.dbcp.dbcp2.BasicDataSourceFactory.getObjectInstance Name = CAR Ignoring unknown property: value of "30000" for "validationInterval" property
+05-Jun-2019 21:23:00.068 信息 [localhost-startStop-1] org.apache.tomcat.dbcp.dbcp2.BasicDataSourceFactory.getObjectInstance Name = CAR Ignoring unknown property: value of "true" for "jmxEnabled" property
+05-Jun-2019 21:23:00.071 信息 [localhost-startStop-1] org.apache.tomcat.dbcp.dbcp2.BasicDataSourceFactory.getObjectInstance Name = CAR Ignoring unknown property: value of "org.apache.tomcat.jdbc.pool.interceptor.ConnectionState;org.apache.tomcat.jdbc.pool.interceptor.StatementFinalizer" for "jdbcInterceptors" property
+05-Jun-2019 21:23:00.605 警告 [localhost-startStop-1] org.apache.tomcat.dbcp.dbcp2.BasicDataSourceFactory.getObjectInstance Name = wf_tianyi Property maxActive is not used in DBCP2, use maxTotal instead. maxTotal default value is 8. You have set value of "100" for "maxActive" property, which is being ignored.
+05-Jun-2019 21:23:00.609 警告 [localhost-startStop-1] org.apache.tomcat.dbcp.dbcp2.BasicDataSourceFactory.getObjectInstance Name = wf_tianyi Property removeAbandoned is not used in DBCP2, use one or both of removeAbandonedOnBorrow or removeAbandonedOnMaintenance instead. Both have default value set to false. You have set value of "true" for "removeAbandoned" property, which is being ignored.
+05-Jun-2019 21:23:00.613 警告 [localhost-startStop-1] org.apache.tomcat.dbcp.dbcp2.BasicDataSourceFactory.getObjectInstance Name = wf_tianyi Property maxWait is not used in DBCP2 , use maxWaitMillis instead. maxWaitMillis default value is -1. You have set value of "10000" for "maxWait" property, which is being ignored.
+05-Jun-2019 21:23:00.615 信息 [localhost-startStop-1] org.apache.tomcat.dbcp.dbcp2.BasicDataSourceFactory.getObjectInstance Name = wf_tianyi Ignoring unknown property: value of "30000" for "validationInterval" property
+05-Jun-2019 21:23:00.618 信息 [localhost-startStop-1] org.apache.tomcat.dbcp.dbcp2.BasicDataSourceFactory.getObjectInstance Name = wf_tianyi Ignoring unknown property: value of "true" for "jmxEnabled" property
+05-Jun-2019 21:23:00.621 信息 [localhost-startStop-1] org.apache.tomcat.dbcp.dbcp2.BasicDataSourceFactory.getObjectInstance Name = wf_tianyi Ignoring unknown property: value of "org.apache.tomcat.jdbc.pool.interceptor.ConnectionState;org.apache.tomcat.jdbc.pool.interceptor.StatementFinalizer" for "jdbcInterceptors" property
+05-Jun-2019 21:23:01.197 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Jun-2019 21:23:02.639 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [F:\java\tomcat 8.5.37\conf\Catalina\localhost\WF_CAR.XML] has finished in [4,536] ms
+05-Jun-2019 21:23:02.644 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [F:\java\tomcat 8.5.37\webapps\ROOT]
+05-Jun-2019 21:23:03.912 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Jun-2019 21:23:03.921 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [F:\java\tomcat 8.5.37\webapps\ROOT] has finished in [1,277] ms
+05-Jun-2019 21:23:03.945 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+05-Jun-2019 21:23:03.954 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 5889 ms
